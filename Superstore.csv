@@ -1,0 +1,1021 @@
+Order ID,Order Date,Ship Mode,Segment,Region,Category,Sub-Category,Product Name,Sales,Cost
+CA-2023-126614,04/13/2023,First Class,Corporate,East,Furniture,Chairs,Chairs Product 69,556.7,496.73
+CA-2023-170792,03/11/2024,Second Class,Home Office,East,Technology,Copiers,Copiers Product 40,1061.56,671.93
+CA-2023-141832,09/28/2023,Standard Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 35,104.34,84.97
+CA-2023-120611,04/17/2023,Standard Class,Consumer,West,Furniture,Chairs,Chairs Product 18,259.66,226.77
+CA-2023-173340,03/13/2023,Second Class,Consumer,Central,Technology,Machines,Machines Product 15,1725.78,1099.3
+CA-2023-118381,12/01/2024,Standard Class,Home Office,West,Office Supplies,Paper,Paper Product 70,173.25,135.69
+CA-2023-156819,01/21/2023,First Class,Home Office,West,Technology,Machines,Machines Product 94,1693.26,1122.77
+CA-2023-144028,09/06/2024,Standard Class,Home Office,Central,Technology,Copiers,Copiers Product 68,2283.65,1496.77
+CA-2023-146197,05/02/2023,Second Class,Consumer,East,Office Supplies,Binders,Binders Product 88,70.15,51.93
+CA-2023-184291,04/11/2024,Same Day,Consumer,Central,Office Supplies,Labels,Labels Product 95,73.02,56.29
+CA-2023-171315,08/03/2023,First Class,Corporate,South,Office Supplies,Envelopes,Envelopes Product 38,70.72,56.56
+CA-2023-175916,11/27/2023,Same Day,Corporate,East,Office Supplies,Binders,Binders Product 97,175.36,142.49
+CA-2023-180879,04/03/2024,Same Day,Consumer,South,Furniture,Furnishings,Furnishings Product 72,527.04,494.72
+CA-2023-186066,03/29/2023,Standard Class,Corporate,South,Office Supplies,Paper,Paper Product 86,78.95,59.75
+CA-2023-101645,01/08/2024,Same Day,Corporate,Central,Technology,Phones,Phones Product 1,412.48,258.53
+CA-2023-111694,04/10/2023,Standard Class,Consumer,West,Technology,Machines,Machines Product 52,620.15,418.35
+CA-2023-149688,10/25/2024,Second Class,Home Office,South,Office Supplies,Binders,Binders Product 7,46.94,36.68
+CA-2023-141914,05/11/2023,Same Day,Home Office,East,Office Supplies,Binders,Binders Product 24,121.54,92.25
+CA-2023-137148,10/23/2024,First Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 28,61.95,44.8
+CA-2023-149840,11/05/2023,Same Day,Corporate,South,Office Supplies,Paper,Paper Product 63,45.76,32.87
+CA-2023-141949,12/10/2023,First Class,Home Office,East,Technology,Phones,Phones Product 83,1085.34,779.15
+CA-2023-190397,05/06/2024,Same Day,Home Office,East,Office Supplies,Fasteners,Fasteners Product 78,27.91,23.12
+CA-2023-126737,02/18/2024,Second Class,Corporate,Central,Office Supplies,Binders,Binders Product 4,70.61,54.82
+CA-2023-199785,01/21/2024,First Class,Corporate,West,Furniture,Chairs,Chairs Product 97,124.01,106.63
+CA-2023-176534,07/11/2023,First Class,Home Office,Central,Furniture,Furnishings,Furnishings Product 72,802.25,679.84
+CA-2023-185595,10/04/2023,First Class,Corporate,Central,Furniture,Bookcases,Bookcases Product 88,564.45,477.08
+CA-2023-186925,06/10/2023,First Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 7,107.31,83.87
+CA-2023-136220,04/04/2024,First Class,Consumer,West,Office Supplies,Paper,Paper Product 2,29.83,24.75
+CA-2023-199713,11/10/2023,First Class,Home Office,East,Technology,Phones,Phones Product 20,1195.7,867.82
+CA-2023-162516,01/22/2023,Same Day,Home Office,South,Office Supplies,Fasteners,Fasteners Product 86,99.91,78.51
+CA-2023-190093,09/10/2023,First Class,Consumer,West,Office Supplies,Paper,Paper Product 81,113.54,87.5
+CA-2023-155029,07/14/2024,Second Class,Home Office,West,Office Supplies,Binders,Binders Product 26,81.58,65.18
+CA-2023-156133,04/19/2024,Second Class,Consumer,Central,Office Supplies,Labels,Labels Product 41,94.45,70.67
+CA-2023-178411,02/28/2023,First Class,Consumer,East,Office Supplies,Paper,Paper Product 85,56.53,43.5
+CA-2023-146828,05/25/2024,Standard Class,Consumer,East,Office Supplies,Fasteners,Fasteners Product 45,93.21,74.56
+CA-2023-186145,11/12/2024,Same Day,Corporate,Central,Technology,Phones,Phones Product 51,1389.57,954.59
+CA-2023-189599,04/20/2024,Same Day,Consumer,Central,Furniture,Bookcases,Bookcases Product 99,259.38,234.01
+CA-2023-189399,11/30/2024,Standard Class,Corporate,East,Technology,Machines,Machines Product 20,2440.68,1543.71
+CA-2023-145420,07/09/2023,First Class,Corporate,West,Furniture,Furnishings,Furnishings Product 66,99.59,88.57
+CA-2023-100060,11/17/2024,First Class,Corporate,West,Furniture,Chairs,Chairs Product 35,523.14,470.48
+CA-2023-120581,07/16/2024,Second Class,Home Office,West,Technology,Phones,Phones Product 59,164.24,103.28
+CA-2023-157134,07/20/2024,Same Day,Corporate,South,Technology,Phones,Phones Product 83,1817.67,1206.02
+CA-2023-158053,09/01/2023,Same Day,Consumer,South,Office Supplies,Labels,Labels Product 12,103.7,77.11
+CA-2023-127935,05/19/2024,Second Class,Home Office,South,Office Supplies,Binders,Binders Product 26,13.21,9.9
+CA-2023-124070,05/11/2023,Standard Class,Home Office,South,Office Supplies,Binders,Binders Product 59,42.5,34.72
+CA-2023-119426,04/29/2024,Second Class,Home Office,Central,Technology,Accessories,Accessories Product 17,1504.84,1143.09
+CA-2023-182050,10/08/2024,Standard Class,Home Office,West,Office Supplies,Art,Art Product 55,75.52,58.26
+CA-2023-107564,01/21/2023,Second Class,Consumer,South,Office Supplies,Paper,Paper Product 42,74.81,56.15
+CA-2023-129430,06/16/2023,Standard Class,Consumer,West,Technology,Accessories,Accessories Product 96,209.43,134.16
+CA-2023-161916,10/01/2023,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 16,51.86,38.32
+CA-2023-124574,01/23/2024,First Class,Consumer,Central,Technology,Machines,Machines Product 49,872.97,657.6
+CA-2023-132913,08/23/2024,Second Class,Consumer,East,Furniture,Tables,Tables Product 65,321.28,272.75
+CA-2023-189431,11/12/2023,Same Day,Home Office,South,Technology,Machines,Machines Product 61,1483.69,1048.32
+CA-2023-129757,01/14/2023,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 52,61.46,44.67
+CA-2023-141844,08/30/2023,First Class,Consumer,East,Furniture,Furnishings,Furnishings Product 98,868.67,757.05
+CA-2023-181412,12/12/2023,Standard Class,Corporate,South,Office Supplies,Paper,Paper Product 49,46.19,34.07
+CA-2023-107657,07/18/2024,First Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 17,122.88,99.52
+CA-2023-133660,12/06/2023,First Class,Consumer,West,Furniture,Furnishings,Furnishings Product 14,681.84,596.3
+CA-2023-197820,04/02/2023,Standard Class,Home Office,South,Technology,Machines,Machines Product 76,1832.83,1328.45
+CA-2023-150106,01/02/2024,Second Class,Home Office,East,Furniture,Bookcases,Bookcases Product 5,613.24,541.43
+CA-2023-103020,03/30/2024,Same Day,Consumer,South,Furniture,Tables,Tables Product 40,119.98,110.78
+CA-2023-101591,03/03/2024,Same Day,Corporate,West,Technology,Accessories,Accessories Product 77,1438.11,929.37
+CA-2023-167675,05/23/2024,Standard Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 41,74.89,54.52
+CA-2023-186206,02/04/2023,First Class,Corporate,East,Office Supplies,Labels,Labels Product 5,95.21,71.26
+CA-2023-178249,07/25/2023,Second Class,Home Office,East,Technology,Accessories,Accessories Product 39,1175.38,751.66
+CA-2023-191659,03/22/2023,First Class,Corporate,East,Furniture,Furnishings,Furnishings Product 46,543.51,467.14
+CA-2023-112987,07/15/2024,Same Day,Consumer,Central,Office Supplies,Paper,Paper Product 70,81.41,65.02
+CA-2023-101435,01/23/2024,Same Day,Home Office,South,Office Supplies,Binders,Binders Product 93,63.02,46.06
+CA-2023-150192,01/02/2023,Same Day,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 65,85.37,70.35
+CA-2023-137567,01/25/2024,First Class,Consumer,West,Furniture,Furnishings,Furnishings Product 99,99.54,84.31
+CA-2023-107813,07/19/2024,First Class,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 75,8.84,7.34
+CA-2023-114288,04/16/2023,First Class,Consumer,South,Office Supplies,Binders,Binders Product 15,26.0,20.1
+CA-2023-178797,04/21/2024,Same Day,Corporate,East,Office Supplies,Labels,Labels Product 67,45.62,33.35
+CA-2023-139214,12/03/2024,Same Day,Consumer,West,Technology,Copiers,Copiers Product 6,327.78,215.73
+CA-2023-119982,02/06/2024,Second Class,Consumer,East,Office Supplies,Labels,Labels Product 25,126.24,98.48
+CA-2023-199911,12/30/2024,Same Day,Corporate,East,Office Supplies,Binders,Binders Product 93,169.17,130.67
+CA-2023-161788,07/09/2024,Same Day,Consumer,South,Office Supplies,Art,Art Product 3,115.28,85.25
+CA-2023-111536,06/11/2023,Second Class,Consumer,East,Furniture,Bookcases,Bookcases Product 60,438.93,411.14
+CA-2023-182503,07/21/2023,First Class,Consumer,East,Furniture,Tables,Tables Product 21,335.24,294.44
+CA-2023-126143,09/27/2023,First Class,Consumer,Central,Furniture,Furnishings,Furnishings Product 41,414.67,346.66
+CA-2023-139499,09/28/2023,Standard Class,Corporate,East,Furniture,Tables,Tables Product 80,655.86,611.87
+CA-2023-122431,03/31/2024,Second Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 33,94.11,71.73
+CA-2023-150069,04/06/2024,First Class,Corporate,South,Technology,Accessories,Accessories Product 90,193.88,146.48
+CA-2023-125003,12/27/2024,Standard Class,Home Office,East,Office Supplies,Binders,Binders Product 6,150.49,124.56
+CA-2023-164881,09/09/2023,Same Day,Corporate,West,Office Supplies,Paper,Paper Product 84,13.0,9.94
+CA-2023-198511,12/02/2024,Same Day,Corporate,Central,Office Supplies,Art,Art Product 26,101.95,76.53
+CA-2023-115313,10/23/2023,Second Class,Home Office,Central,Office Supplies,Paper,Paper Product 25,26.5,20.58
+CA-2023-170316,12/25/2024,Same Day,Consumer,Central,Technology,Accessories,Accessories Product 55,1211.84,840.94
+CA-2023-100661,12/20/2024,Standard Class,Consumer,West,Furniture,Furnishings,Furnishings Product 28,810.27,699.78
+CA-2023-198656,12/04/2023,First Class,Consumer,South,Furniture,Bookcases,Bookcases Product 31,359.57,323.13
+CA-2023-139443,02/22/2023,Same Day,Corporate,South,Office Supplies,Envelopes,Envelopes Product 96,87.2,64.73
+CA-2023-143585,08/05/2023,First Class,Corporate,Central,Office Supplies,Binders,Binders Product 39,95.87,73.9
+CA-2023-148364,07/07/2023,Second Class,Consumer,Central,Office Supplies,Art,Art Product 99,40.66,31.97
+CA-2023-166061,01/15/2024,Second Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 69,112.91,91.36
+CA-2023-199950,05/07/2024,Second Class,Home Office,West,Furniture,Chairs,Chairs Product 2,277.94,235.42
+CA-2023-167649,02/10/2023,First Class,Consumer,East,Furniture,Chairs,Chairs Product 65,410.4,343.31
+CA-2023-152233,06/06/2023,First Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 74,125.38,97.13
+CA-2023-179530,01/15/2023,Same Day,Consumer,East,Office Supplies,Envelopes,Envelopes Product 84,107.71,83.74
+CA-2023-192324,03/06/2023,Standard Class,Consumer,Central,Office Supplies,Art,Art Product 56,99.9,74.96
+CA-2023-120337,06/04/2024,Second Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 37,30.02,24.55
+CA-2023-176260,12/10/2023,Standard Class,Home Office,West,Technology,Phones,Phones Product 51,2042.92,1494.01
+CA-2023-165661,05/09/2023,Second Class,Consumer,West,Furniture,Tables,Tables Product 57,390.49,348.03
+CA-2023-112115,10/09/2024,First Class,Corporate,West,Office Supplies,Art,Art Product 80,68.59,51.44
+CA-2023-123196,04/16/2024,Same Day,Corporate,South,Technology,Copiers,Copiers Product 86,1659.08,1042.81
+CA-2023-188009,03/04/2023,Second Class,Corporate,East,Office Supplies,Paper,Paper Product 26,117.53,84.62
+CA-2023-137208,05/19/2023,Second Class,Consumer,West,Technology,Copiers,Copiers Product 31,1568.61,1175.93
+CA-2023-108125,05/13/2024,Same Day,Corporate,South,Office Supplies,Labels,Labels Product 70,89.93,68.36
+CA-2023-127208,08/15/2024,Standard Class,Consumer,East,Office Supplies,Paper,Paper Product 75,59.99,43.66
+CA-2023-104114,01/27/2024,Second Class,Corporate,Central,Technology,Phones,Phones Product 23,1847.91,1171.27
+CA-2023-191736,11/05/2024,Standard Class,Home Office,West,Office Supplies,Art,Art Product 71,76.86,61.03
+CA-2023-108927,02/23/2024,Standard Class,Home Office,East,Office Supplies,Art,Art Product 90,54.06,41.91
+CA-2023-177576,10/16/2023,First Class,Consumer,South,Office Supplies,Fasteners,Fasteners Product 48,89.28,66.04
+CA-2023-132779,01/14/2024,Standard Class,Corporate,West,Technology,Copiers,Copiers Product 79,190.58,135.9
+CA-2023-159889,05/04/2024,Same Day,Home Office,West,Office Supplies,Art,Art Product 21,105.82,77.66
+CA-2023-139310,08/19/2023,Standard Class,Home Office,West,Furniture,Bookcases,Bookcases Product 68,766.39,722.54
+CA-2023-150115,02/10/2023,Same Day,Consumer,East,Technology,Accessories,Accessories Product 27,502.68,372.38
+CA-2023-154691,01/28/2023,Second Class,Corporate,West,Technology,Copiers,Copiers Product 77,1191.11,854.83
+CA-2023-144139,05/15/2023,Second Class,Home Office,West,Office Supplies,Paper,Paper Product 71,66.91,54.64
+CA-2023-124611,07/20/2023,Same Day,Corporate,Central,Office Supplies,Paper,Paper Product 1,73.7,58.89
+CA-2023-180758,02/02/2023,Second Class,Corporate,West,Office Supplies,Labels,Labels Product 92,90.58,65.15
+CA-2023-175388,02/17/2023,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 37,82.04,66.43
+CA-2023-188920,05/17/2024,Second Class,Home Office,West,Office Supplies,Art,Art Product 97,114.56,85.86
+CA-2023-117633,02/11/2024,Standard Class,Home Office,West,Office Supplies,Labels,Labels Product 22,28.24,20.96
+CA-2023-191658,07/27/2024,Second Class,Consumer,West,Furniture,Bookcases,Bookcases Product 57,240.71,222.68
+CA-2023-194018,12/28/2024,Second Class,Corporate,West,Office Supplies,Binders,Binders Product 41,61.51,46.62
+CA-2023-133893,04/09/2023,Second Class,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 36,109.32,82.78
+CA-2023-154624,11/14/2024,First Class,Corporate,West,Furniture,Chairs,Chairs Product 68,827.33,745.22
+CA-2023-136378,12/26/2024,Same Day,Consumer,East,Office Supplies,Envelopes,Envelopes Product 72,23.3,17.13
+CA-2023-174069,06/30/2024,Second Class,Corporate,South,Office Supplies,Fasteners,Fasteners Product 2,34.78,26.93
+CA-2023-197543,09/04/2024,Second Class,Corporate,South,Office Supplies,Art,Art Product 77,96.22,74.41
+CA-2023-188733,04/06/2024,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Product 17,27.17,21.2
+CA-2023-172982,10/04/2024,Same Day,Home Office,East,Office Supplies,Envelopes,Envelopes Product 5,63.97,50.11
+CA-2023-113395,01/05/2023,Second Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 32,37.56,28.15
+CA-2023-116163,08/06/2023,Standard Class,Home Office,East,Furniture,Furnishings,Furnishings Product 66,461.91,430.13
+CA-2023-155114,05/17/2024,First Class,Corporate,West,Office Supplies,Binders,Binders Product 68,123.23,94.01
+CA-2023-104437,02/02/2024,Same Day,Consumer,West,Technology,Accessories,Accessories Product 12,2010.1,1387.15
+CA-2023-176957,01/28/2024,Same Day,Corporate,South,Technology,Accessories,Accessories Product 6,1273.5,855.63
+CA-2023-124226,07/26/2023,Second Class,Home Office,Central,Furniture,Bookcases,Bookcases Product 82,295.82,278.51
+CA-2023-174520,01/15/2023,Standard Class,Corporate,West,Technology,Accessories,Accessories Product 95,1542.66,997.36
+CA-2023-111138,07/07/2024,First Class,Consumer,Central,Office Supplies,Fasteners,Fasteners Product 13,123.39,90.33
+CA-2023-146659,04/05/2024,Standard Class,Consumer,South,Office Supplies,Labels,Labels Product 20,9.14,7.45
+CA-2023-177866,11/21/2024,Second Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 83,154.61,128.83
+CA-2023-155677,07/28/2024,First Class,Corporate,East,Office Supplies,Labels,Labels Product 56,102.29,79.17
+CA-2023-150331,08/29/2023,Second Class,Corporate,East,Office Supplies,Art,Art Product 80,25.77,21.21
+CA-2023-123312,07/17/2024,Standard Class,Home Office,East,Office Supplies,Paper,Paper Product 93,74.72,53.4
+CA-2023-142468,04/06/2023,Same Day,Home Office,West,Office Supplies,Envelopes,Envelopes Product 99,115.07,85.56
+CA-2023-176373,04/29/2024,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 62,62.7,50.76
+CA-2023-124022,02/11/2024,Second Class,Home Office,West,Office Supplies,Fasteners,Fasteners Product 13,105.42,80.08
+CA-2023-147076,08/19/2023,Standard Class,Consumer,East,Furniture,Tables,Tables Product 60,563.64,521.97
+CA-2023-189881,10/16/2024,Second Class,Corporate,West,Office Supplies,Labels,Labels Product 82,103.93,85.21
+CA-2023-155316,06/20/2023,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 64,86.89,63.34
+CA-2023-103631,06/24/2024,Standard Class,Consumer,Central,Office Supplies,Paper,Paper Product 58,128.78,94.57
+CA-2023-128602,02/05/2023,Second Class,Consumer,West,Office Supplies,Labels,Labels Product 60,108.33,83.39
+CA-2023-163936,06/08/2024,First Class,Consumer,East,Office Supplies,Labels,Labels Product 72,25.96,19.27
+CA-2023-189570,06/09/2023,Same Day,Consumer,South,Furniture,Bookcases,Bookcases Product 21,636.98,544.28
+CA-2023-164027,11/29/2024,First Class,Home Office,West,Office Supplies,Fasteners,Fasteners Product 5,207.45,148.8
+CA-2023-123888,08/31/2023,First Class,Consumer,South,Office Supplies,Binders,Binders Product 79,8.5,6.99
+CA-2023-142600,03/27/2023,Standard Class,Consumer,West,Office Supplies,Paper,Paper Product 62,36.64,29.26
+CA-2023-187527,07/31/2024,Second Class,Corporate,West,Technology,Accessories,Accessories Product 32,1690.67,1218.2
+CA-2023-158279,11/12/2024,Second Class,Home Office,East,Office Supplies,Envelopes,Envelopes Product 59,36.05,29.82
+CA-2023-102461,07/10/2024,Same Day,Consumer,Central,Office Supplies,Binders,Binders Product 51,87.8,63.23
+CA-2023-148758,07/27/2024,First Class,Consumer,East,Technology,Copiers,Copiers Product 47,2236.21,1489.38
+CA-2023-198605,10/07/2024,Same Day,Corporate,Central,Office Supplies,Labels,Labels Product 96,36.29,26.0
+CA-2023-123387,01/28/2023,Standard Class,Consumer,East,Furniture,Tables,Tables Product 29,670.48,614.89
+CA-2023-146486,09/11/2024,Same Day,Consumer,West,Office Supplies,Envelopes,Envelopes Product 37,102.76,82.69
+CA-2023-151612,07/09/2024,Second Class,Home Office,West,Office Supplies,Art,Art Product 25,43.68,33.27
+CA-2023-155147,12/06/2023,Standard Class,Home Office,South,Office Supplies,Binders,Binders Product 99,118.55,87.02
+CA-2023-134196,11/27/2023,Same Day,Corporate,West,Office Supplies,Binders,Binders Product 27,127.74,101.2
+CA-2023-119033,10/01/2024,Second Class,Corporate,Central,Office Supplies,Labels,Labels Product 78,73.3,56.18
+CA-2023-136751,05/20/2024,First Class,Home Office,West,Office Supplies,Binders,Binders Product 56,102.95,77.07
+CA-2023-118313,12/14/2023,Same Day,Corporate,West,Office Supplies,Binders,Binders Product 37,77.36,59.98
+CA-2023-192197,04/17/2024,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 17,85.35,71.08
+CA-2023-148868,08/19/2023,Same Day,Corporate,West,Office Supplies,Envelopes,Envelopes Product 4,71.89,53.46
+CA-2023-163646,07/09/2023,Same Day,Home Office,West,Furniture,Furnishings,Furnishings Product 83,652.52,557.35
+CA-2023-113428,08/13/2023,First Class,Home Office,West,Furniture,Chairs,Chairs Product 94,729.68,609.44
+CA-2023-184730,01/20/2024,Same Day,Home Office,Central,Office Supplies,Paper,Paper Product 57,16.69,13.42
+CA-2023-149811,01/12/2024,Same Day,Home Office,East,Technology,Phones,Phones Product 70,511.31,342.87
+CA-2023-103471,10/10/2023,Standard Class,Consumer,West,Technology,Copiers,Copiers Product 10,937.92,637.37
+CA-2023-197909,09/24/2024,Standard Class,Corporate,West,Office Supplies,Labels,Labels Product 51,94.21,71.52
+CA-2023-194788,09/19/2024,Standard Class,Consumer,West,Technology,Accessories,Accessories Product 21,1769.51,1293.82
+CA-2023-129309,09/16/2023,First Class,Home Office,West,Office Supplies,Labels,Labels Product 1,95.58,72.07
+CA-2023-107531,12/25/2023,Same Day,Consumer,Central,Office Supplies,Envelopes,Envelopes Product 24,143.61,116.59
+CA-2023-192573,12/10/2024,Second Class,Home Office,East,Office Supplies,Labels,Labels Product 92,20.99,17.33
+CA-2023-109833,03/31/2024,Standard Class,Consumer,East,Office Supplies,Binders,Binders Product 73,41.69,30.84
+CA-2023-115892,02/15/2024,Same Day,Corporate,West,Office Supplies,Art,Art Product 7,15.13,10.95
+CA-2023-166707,10/10/2024,Same Day,Home Office,South,Furniture,Bookcases,Bookcases Product 21,76.29,66.37
+CA-2023-120644,11/14/2023,Second Class,Consumer,East,Furniture,Furnishings,Furnishings Product 3,1099.26,961.18
+CA-2023-187896,11/07/2024,Standard Class,Consumer,East,Office Supplies,Labels,Labels Product 33,113.84,88.06
+CA-2023-133365,08/13/2023,First Class,Consumer,West,Furniture,Furnishings,Furnishings Product 61,386.51,363.49
+CA-2023-144629,08/22/2023,Standard Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 70,89.4,73.67
+CA-2023-168673,11/14/2024,Second Class,Corporate,South,Technology,Accessories,Accessories Product 51,788.89,498.13
+CA-2023-130651,10/25/2024,First Class,Corporate,South,Office Supplies,Fasteners,Fasteners Product 63,44.26,32.61
+CA-2023-130573,01/09/2024,Same Day,Corporate,East,Office Supplies,Labels,Labels Product 85,26.14,20.65
+CA-2023-127624,11/02/2024,Same Day,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 63,164.15,131.56
+CA-2023-150729,08/30/2024,Same Day,Home Office,East,Office Supplies,Fasteners,Fasteners Product 52,47.3,37.65
+CA-2023-194986,04/16/2024,Same Day,Corporate,East,Office Supplies,Art,Art Product 92,55.75,41.14
+CA-2023-121038,08/21/2023,First Class,Corporate,West,Office Supplies,Labels,Labels Product 42,88.76,65.29
+CA-2023-106530,11/22/2024,Standard Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 40,152.28,120.54
+CA-2023-133380,04/23/2023,Same Day,Home Office,West,Office Supplies,Envelopes,Envelopes Product 94,29.92,24.19
+CA-2023-163370,05/11/2024,Second Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 63,105.72,86.4
+CA-2023-101283,03/17/2024,Same Day,Corporate,South,Office Supplies,Labels,Labels Product 59,90.83,68.45
+CA-2023-126819,07/17/2024,Standard Class,Corporate,East,Furniture,Bookcases,Bookcases Product 5,601.29,565.15
+CA-2023-195665,09/25/2023,Second Class,Home Office,Central,Technology,Copiers,Copiers Product 11,2011.67,1301.45
+CA-2023-146305,05/24/2024,Second Class,Home Office,South,Technology,Copiers,Copiers Product 30,1045.61,742.97
+CA-2023-195648,01/21/2024,Standard Class,Home Office,East,Furniture,Chairs,Chairs Product 41,143.2,134.71
+CA-2023-176975,01/22/2024,Same Day,Corporate,Central,Office Supplies,Binders,Binders Product 11,101.28,76.14
+CA-2023-187969,04/23/2023,Second Class,Home Office,Central,Technology,Machines,Machines Product 28,1321.56,987.8
+CA-2023-121447,09/04/2024,First Class,Home Office,East,Office Supplies,Fasteners,Fasteners Product 67,107.47,86.3
+CA-2023-171906,09/16/2024,Standard Class,Consumer,West,Office Supplies,Paper,Paper Product 14,32.41,25.48
+CA-2023-129516,03/22/2023,First Class,Corporate,Central,Technology,Phones,Phones Product 6,1801.57,1172.49
+CA-2023-102597,11/29/2024,Second Class,Consumer,West,Office Supplies,Art,Art Product 35,30.06,23.32
+CA-2023-123383,04/23/2023,Second Class,Corporate,South,Office Supplies,Fasteners,Fasteners Product 22,60.8,50.51
+CA-2023-121778,01/02/2023,Standard Class,Consumer,South,Technology,Machines,Machines Product 63,2262.73,1461.89
+CA-2023-152142,10/03/2024,Same Day,Corporate,East,Office Supplies,Envelopes,Envelopes Product 53,105.27,83.79
+CA-2023-177175,08/08/2023,Same Day,Consumer,Central,Office Supplies,Paper,Paper Product 53,33.65,27.98
+CA-2023-132762,07/19/2024,Same Day,Corporate,Central,Office Supplies,Art,Art Product 86,98.16,74.37
+CA-2023-174813,08/13/2023,Standard Class,Corporate,West,Technology,Machines,Machines Product 11,1425.31,976.65
+CA-2023-179151,01/20/2024,Same Day,Consumer,West,Technology,Accessories,Accessories Product 33,1351.91,902.69
+CA-2023-109168,02/07/2024,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 87,121.93,91.41
+CA-2023-149678,09/29/2024,Standard Class,Home Office,South,Office Supplies,Envelopes,Envelopes Product 93,118.32,91.51
+CA-2023-178002,05/10/2023,Same Day,Home Office,West,Furniture,Chairs,Chairs Product 28,596.12,523.48
+CA-2023-100193,02/22/2023,Same Day,Corporate,West,Office Supplies,Envelopes,Envelopes Product 1,68.29,51.33
+CA-2023-126512,11/14/2024,Standard Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 8,22.03,17.61
+CA-2023-168336,12/30/2024,First Class,Corporate,West,Office Supplies,Binders,Binders Product 84,184.8,145.94
+CA-2023-158557,11/02/2024,Same Day,Home Office,Central,Office Supplies,Labels,Labels Product 97,115.18,84.02
+CA-2023-131337,12/10/2024,First Class,Corporate,South,Office Supplies,Labels,Labels Product 9,87.05,69.99
+CA-2023-135634,02/20/2024,First Class,Home Office,West,Technology,Phones,Phones Product 39,1285.98,963.89
+CA-2023-159518,09/04/2023,Second Class,Consumer,West,Office Supplies,Art,Art Product 19,11.95,9.26
+CA-2023-168847,03/14/2024,Standard Class,Consumer,Central,Office Supplies,Labels,Labels Product 92,96.25,72.83
+CA-2023-152893,07/22/2023,Standard Class,Home Office,East,Technology,Copiers,Copiers Product 47,1701.27,1308.03
+CA-2023-124995,07/03/2023,Second Class,Consumer,East,Technology,Accessories,Accessories Product 28,368.34,260.28
+CA-2023-119086,05/03/2023,Standard Class,Home Office,West,Office Supplies,Paper,Paper Product 29,14.28,11.75
+CA-2023-174637,02/05/2024,Second Class,Home Office,South,Office Supplies,Binders,Binders Product 39,117.94,89.36
+CA-2023-199932,10/21/2023,Second Class,Home Office,West,Technology,Copiers,Copiers Product 40,1511.68,993.03
+CA-2023-134624,10/07/2023,First Class,Consumer,West,Technology,Phones,Phones Product 85,959.25,690.85
+CA-2023-138392,09/01/2024,Second Class,Consumer,Central,Technology,Machines,Machines Product 18,881.54,580.43
+CA-2023-161049,07/17/2023,Second Class,Corporate,West,Office Supplies,Labels,Labels Product 67,39.3,31.16
+CA-2023-115434,05/25/2024,Same Day,Corporate,West,Technology,Machines,Machines Product 33,1546.52,1163.09
+CA-2023-168803,05/24/2023,Standard Class,Consumer,West,Office Supplies,Binders,Binders Product 20,26.82,20.85
+CA-2023-144014,08/31/2024,First Class,Home Office,West,Office Supplies,Binders,Binders Product 49,88.08,66.35
+CA-2023-191575,07/20/2023,Same Day,Corporate,West,Furniture,Furnishings,Furnishings Product 4,557.13,504.33
+CA-2023-198746,05/04/2023,First Class,Home Office,East,Furniture,Tables,Tables Product 26,436.61,414.19
+CA-2023-177362,07/06/2023,Second Class,Corporate,Central,Furniture,Tables,Tables Product 15,827.67,744.23
+CA-2023-171849,11/22/2023,Same Day,Consumer,West,Office Supplies,Binders,Binders Product 6,166.07,135.76
+CA-2023-120538,04/08/2024,First Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 96,69.18,56.81
+CA-2023-101932,12/15/2023,Second Class,Consumer,Central,Office Supplies,Envelopes,Envelopes Product 87,190.66,147.17
+CA-2023-170393,10/21/2024,Standard Class,Consumer,West,Office Supplies,Binders,Binders Product 21,112.1,83.55
+CA-2023-130654,02/07/2024,Same Day,Consumer,West,Technology,Machines,Machines Product 98,1164.36,862.76
+CA-2023-157169,12/12/2023,Same Day,Corporate,West,Office Supplies,Art,Art Product 19,160.27,118.99
+CA-2023-135428,05/25/2024,Same Day,Corporate,East,Office Supplies,Labels,Labels Product 64,26.12,19.06
+CA-2023-119595,05/27/2023,Second Class,Consumer,Central,Office Supplies,Binders,Binders Product 92,96.18,73.6
+CA-2023-148651,05/28/2023,Second Class,Consumer,South,Furniture,Furnishings,Furnishings Product 26,303.46,256.83
+CA-2023-178518,12/11/2024,Second Class,Corporate,West,Technology,Copiers,Copiers Product 62,2511.12,1734.7
+CA-2023-136593,05/03/2024,Standard Class,Home Office,South,Office Supplies,Art,Art Product 91,69.56,53.57
+CA-2023-141862,10/01/2024,Standard Class,Home Office,East,Office Supplies,Art,Art Product 73,82.0,62.2
+CA-2023-180018,07/04/2024,First Class,Corporate,East,Furniture,Chairs,Chairs Product 69,446.53,379.36
+CA-2023-199441,12/04/2023,Same Day,Corporate,Central,Office Supplies,Fasteners,Fasteners Product 43,52.47,38.96
+CA-2023-151151,10/02/2024,Same Day,Corporate,West,Technology,Accessories,Accessories Product 35,400.56,288.21
+CA-2023-110503,04/17/2024,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 30,112.37,80.37
+CA-2023-186156,05/31/2023,Same Day,Consumer,Central,Furniture,Chairs,Chairs Product 73,350.74,306.34
+CA-2023-193718,02/19/2024,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 4,87.3,71.5
+CA-2023-141869,10/25/2023,Same Day,Consumer,South,Office Supplies,Fasteners,Fasteners Product 34,44.64,34.08
+CA-2023-180807,09/02/2024,Standard Class,Home Office,Central,Furniture,Bookcases,Bookcases Product 16,483.89,441.93
+CA-2023-110350,09/20/2023,First Class,Corporate,East,Office Supplies,Binders,Binders Product 8,15.27,11.93
+CA-2023-123782,05/24/2023,Standard Class,Home Office,East,Office Supplies,Fasteners,Fasteners Product 30,36.48,30.29
+CA-2023-130750,12/12/2023,Standard Class,Home Office,West,Technology,Phones,Phones Product 62,855.93,600.72
+CA-2023-100159,09/15/2024,Second Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 53,78.15,64.35
+CA-2023-156378,07/25/2024,First Class,Corporate,West,Technology,Accessories,Accessories Product 31,1187.16,888.6
+CA-2023-107016,01/02/2023,Same Day,Consumer,West,Office Supplies,Binders,Binders Product 95,111.93,83.26
+CA-2023-126917,10/31/2023,Standard Class,Home Office,West,Furniture,Chairs,Chairs Product 8,92.92,85.14
+CA-2023-141627,09/11/2023,First Class,Consumer,West,Furniture,Chairs,Chairs Product 19,802.47,755.34
+CA-2023-190930,10/13/2024,Standard Class,Home Office,South,Office Supplies,Binders,Binders Product 56,47.21,34.77
+CA-2023-162368,03/28/2024,Same Day,Home Office,Central,Technology,Phones,Phones Product 55,344.49,262.43
+CA-2023-129796,02/06/2023,Standard Class,Home Office,South,Furniture,Bookcases,Bookcases Product 47,284.31,240.67
+CA-2023-163115,06/09/2023,Standard Class,Corporate,East,Technology,Phones,Phones Product 48,379.82,247.51
+CA-2023-105355,01/09/2023,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Product 82,61.37,50.22
+CA-2023-120808,08/21/2023,Second Class,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 86,106.58,85.78
+CA-2023-185896,04/09/2023,Same Day,Home Office,East,Office Supplies,Labels,Labels Product 3,92.51,76.63
+CA-2023-162261,10/20/2024,Second Class,Consumer,South,Office Supplies,Envelopes,Envelopes Product 99,13.31,9.96
+CA-2023-162507,07/27/2023,First Class,Consumer,Central,Office Supplies,Paper,Paper Product 13,20.32,15.59
+CA-2023-131881,05/11/2023,First Class,Consumer,Central,Office Supplies,Binders,Binders Product 17,8.37,6.84
+CA-2023-101401,02/08/2024,Same Day,Corporate,Central,Technology,Copiers,Copiers Product 84,163.92,113.89
+CA-2023-103866,06/01/2023,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 47,76.07,54.52
+CA-2023-130431,02/23/2023,Standard Class,Consumer,Central,Technology,Accessories,Accessories Product 58,507.07,354.43
+CA-2023-155668,04/30/2023,Same Day,Consumer,South,Office Supplies,Paper,Paper Product 51,48.39,40.32
+CA-2023-128151,11/03/2024,Same Day,Consumer,West,Furniture,Bookcases,Bookcases Product 4,1150.6,1008.48
+CA-2023-131131,09/19/2024,Standard Class,Home Office,East,Technology,Phones,Phones Product 44,576.43,419.53
+CA-2023-126423,08/09/2024,Same Day,Corporate,West,Furniture,Tables,Tables Product 32,860.73,792.66
+CA-2023-160614,09/16/2024,Second Class,Consumer,West,Furniture,Chairs,Chairs Product 10,236.1,203.74
+CA-2023-178915,02/24/2024,First Class,Home Office,Central,Office Supplies,Art,Art Product 65,25.83,18.96
+CA-2023-118990,02/26/2024,First Class,Consumer,Central,Office Supplies,Envelopes,Envelopes Product 26,49.83,37.05
+CA-2023-135063,04/14/2023,Second Class,Consumer,South,Furniture,Chairs,Chairs Product 27,458.74,422.98
+CA-2023-164805,09/11/2023,Second Class,Corporate,Central,Office Supplies,Labels,Labels Product 78,132.51,95.16
+CA-2023-138405,08/15/2023,Standard Class,Consumer,East,Office Supplies,Labels,Labels Product 33,63.73,48.57
+CA-2023-113979,04/22/2023,Same Day,Corporate,East,Furniture,Bookcases,Bookcases Product 68,759.69,644.86
+CA-2023-176221,05/24/2024,Standard Class,Home Office,West,Technology,Copiers,Copiers Product 18,1061.52,669.34
+CA-2023-158627,04/17/2024,Same Day,Home Office,Central,Office Supplies,Fasteners,Fasteners Product 98,89.53,64.12
+CA-2023-170902,04/09/2023,Same Day,Consumer,South,Office Supplies,Art,Art Product 94,76.11,54.54
+CA-2023-145242,06/02/2023,Same Day,Corporate,Central,Office Supplies,Fasteners,Fasteners Product 86,87.81,65.86
+CA-2023-169119,12/04/2023,Same Day,Corporate,Central,Office Supplies,Labels,Labels Product 85,11.17,8.79
+CA-2023-174671,12/06/2024,First Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 93,42.8,32.85
+CA-2023-140695,06/12/2023,First Class,Home Office,South,Office Supplies,Labels,Labels Product 1,6.96,5.04
+CA-2023-198932,12/20/2024,Second Class,Home Office,East,Furniture,Chairs,Chairs Product 91,706.37,616.74
+CA-2023-175731,11/11/2024,Standard Class,Home Office,West,Office Supplies,Paper,Paper Product 65,149.68,119.73
+CA-2023-198134,06/10/2023,Second Class,Home Office,East,Office Supplies,Binders,Binders Product 5,123.24,88.35
+CA-2023-126536,08/02/2024,Standard Class,Consumer,Central,Furniture,Chairs,Chairs Product 56,185.61,161.13
+CA-2023-166668,02/02/2024,Same Day,Home Office,South,Office Supplies,Art,Art Product 71,49.25,36.0
+CA-2023-174601,10/04/2023,Same Day,Home Office,West,Technology,Phones,Phones Product 93,1054.28,687.23
+CA-2023-193688,05/18/2024,First Class,Corporate,South,Office Supplies,Art,Art Product 37,74.1,61.41
+CA-2023-162433,01/27/2024,Standard Class,Corporate,Central,Office Supplies,Art,Art Product 34,106.89,84.4
+CA-2023-143884,05/15/2023,Standard Class,Home Office,East,Technology,Machines,Machines Product 62,226.87,163.56
+CA-2023-134148,07/14/2023,Standard Class,Corporate,East,Office Supplies,Labels,Labels Product 38,58.15,44.57
+CA-2023-122318,02/05/2024,Same Day,Corporate,Central,Furniture,Furnishings,Furnishings Product 36,234.0,222.81
+CA-2023-160957,10/01/2024,Second Class,Consumer,Central,Office Supplies,Labels,Labels Product 27,101.94,77.11
+CA-2023-196117,02/02/2023,Same Day,Home Office,East,Office Supplies,Paper,Paper Product 22,55.55,40.24
+CA-2023-145046,11/18/2024,First Class,Corporate,Central,Office Supplies,Labels,Labels Product 59,36.78,28.82
+CA-2023-112297,04/04/2024,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 48,84.06,60.46
+CA-2023-102800,04/14/2024,Standard Class,Home Office,West,Office Supplies,Paper,Paper Product 36,22.76,17.34
+CA-2023-107263,01/10/2024,First Class,Home Office,Central,Technology,Machines,Machines Product 23,1899.29,1258.51
+CA-2023-113050,01/22/2023,Standard Class,Consumer,East,Furniture,Chairs,Chairs Product 70,759.71,696.27
+CA-2023-141520,10/31/2024,Same Day,Home Office,West,Office Supplies,Envelopes,Envelopes Product 64,24.41,19.95
+CA-2023-133919,02/07/2023,Same Day,Corporate,East,Office Supplies,Art,Art Product 43,66.16,50.84
+CA-2023-170305,08/18/2023,Standard Class,Home Office,East,Technology,Copiers,Copiers Product 59,1806.33,1216.57
+CA-2023-110578,12/31/2023,Standard Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 80,118.95,85.37
+CA-2023-158002,07/16/2024,Same Day,Home Office,South,Technology,Phones,Phones Product 89,2189.89,1446.12
+CA-2023-119477,03/13/2024,First Class,Consumer,Central,Furniture,Furnishings,Furnishings Product 7,569.34,518.77
+CA-2023-111442,10/10/2023,Second Class,Consumer,West,Office Supplies,Art,Art Product 53,119.83,85.81
+CA-2023-110808,01/27/2023,Same Day,Corporate,West,Office Supplies,Art,Art Product 59,61.18,44.11
+CA-2023-126049,08/14/2023,Second Class,Home Office,West,Office Supplies,Binders,Binders Product 33,61.66,46.11
+CA-2023-188278,10/04/2023,First Class,Corporate,West,Office Supplies,Fasteners,Fasteners Product 20,91.35,74.68
+CA-2023-125991,08/31/2024,Second Class,Corporate,West,Office Supplies,Binders,Binders Product 17,130.58,94.42
+CA-2023-101988,10/11/2023,Second Class,Corporate,West,Furniture,Tables,Tables Product 49,149.9,134.98
+CA-2023-122625,04/25/2024,Standard Class,Home Office,East,Office Supplies,Envelopes,Envelopes Product 24,15.9,12.03
+CA-2023-194426,03/28/2024,Standard Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 91,24.63,18.67
+CA-2023-126990,10/20/2024,Second Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 22,82.01,61.91
+CA-2023-194767,05/30/2024,Second Class,Consumer,West,Technology,Machines,Machines Product 59,1276.08,889.12
+CA-2023-179832,06/30/2024,Second Class,Consumer,South,Office Supplies,Labels,Labels Product 22,26.35,21.54
+CA-2023-184381,07/11/2023,Standard Class,Consumer,West,Technology,Phones,Phones Product 45,566.43,383.69
+CA-2023-177219,02/18/2023,Standard Class,Consumer,West,Office Supplies,Paper,Paper Product 32,78.4,56.49
+CA-2023-184021,05/26/2024,Second Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 85,17.64,14.68
+CA-2023-102426,01/17/2023,Standard Class,Home Office,East,Technology,Copiers,Copiers Product 92,2017.76,1305.85
+CA-2023-162956,06/21/2023,Same Day,Home Office,East,Office Supplies,Paper,Paper Product 23,92.09,68.71
+CA-2023-188056,08/08/2023,Second Class,Consumer,East,Furniture,Furnishings,Furnishings Product 34,65.57,60.31
+CA-2023-183104,06/07/2023,First Class,Corporate,West,Furniture,Chairs,Chairs Product 10,398.91,368.58
+CA-2023-114924,04/21/2024,Same Day,Corporate,West,Technology,Machines,Machines Product 65,1978.21,1252.18
+CA-2023-182409,02/15/2023,Standard Class,Consumer,East,Office Supplies,Art,Art Product 89,66.19,54.54
+CA-2023-186664,01/08/2024,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 61,55.17,40.0
+CA-2023-143427,06/01/2024,Second Class,Home Office,South,Technology,Machines,Machines Product 92,1553.46,1087.65
+CA-2023-179052,04/09/2023,Same Day,Corporate,West,Office Supplies,Fasteners,Fasteners Product 61,105.03,79.58
+CA-2023-135842,02/06/2023,Second Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 1,31.35,24.95
+CA-2023-135529,10/07/2023,Same Day,Consumer,Central,Technology,Phones,Phones Product 67,428.91,324.65
+CA-2023-198499,12/15/2023,Same Day,Home Office,West,Technology,Copiers,Copiers Product 23,1675.92,1087.02
+CA-2023-171832,05/11/2024,Standard Class,Home Office,East,Office Supplies,Labels,Labels Product 55,52.73,38.61
+CA-2023-161753,10/29/2023,First Class,Consumer,West,Technology,Copiers,Copiers Product 61,1391.02,985.1
+CA-2023-192789,06/30/2023,Standard Class,Corporate,South,Office Supplies,Art,Art Product 76,106.33,83.74
+CA-2023-159848,08/29/2024,Standard Class,Home Office,Central,Technology,Machines,Machines Product 13,887.12,680.32
+CA-2023-105520,04/09/2023,First Class,Consumer,Central,Office Supplies,Envelopes,Envelopes Product 6,32.8,26.81
+CA-2023-170269,11/30/2024,First Class,Corporate,South,Office Supplies,Fasteners,Fasteners Product 10,37.1,30.49
+CA-2023-192365,04/26/2023,First Class,Home Office,East,Office Supplies,Art,Art Product 19,34.06,26.12
+CA-2023-108328,07/10/2023,First Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 19,127.28,96.19
+CA-2023-105618,09/10/2023,Standard Class,Corporate,West,Office Supplies,Binders,Binders Product 93,27.7,21.31
+CA-2023-193500,06/10/2023,Standard Class,Home Office,East,Office Supplies,Labels,Labels Product 26,92.47,71.18
+CA-2023-105126,09/13/2023,Second Class,Consumer,South,Office Supplies,Labels,Labels Product 65,58.24,42.23
+CA-2023-132130,11/19/2023,First Class,Consumer,West,Furniture,Chairs,Chairs Product 32,1196.42,1039.47
+CA-2023-159191,05/08/2023,Standard Class,Consumer,Central,Office Supplies,Paper,Paper Product 80,99.76,74.48
+CA-2023-100717,01/18/2023,Standard Class,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 41,49.84,36.69
+CA-2023-134872,07/19/2024,Same Day,Corporate,South,Technology,Machines,Machines Product 48,168.92,118.71
+CA-2023-138759,07/23/2024,Same Day,Home Office,East,Office Supplies,Fasteners,Fasteners Product 57,62.47,50.53
+CA-2023-102382,11/19/2023,Same Day,Consumer,West,Technology,Accessories,Accessories Product 93,1446.34,938.48
+CA-2023-179930,11/16/2024,First Class,Corporate,West,Office Supplies,Art,Art Product 60,73.22,57.45
+CA-2023-164925,09/17/2024,First Class,Corporate,Central,Office Supplies,Binders,Binders Product 49,53.0,38.24
+CA-2023-154319,10/15/2023,Standard Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 45,17.16,14.06
+CA-2023-189791,10/24/2024,Same Day,Consumer,West,Office Supplies,Binders,Binders Product 92,92.69,77.06
+CA-2023-193583,09/30/2024,First Class,Home Office,West,Furniture,Furnishings,Furnishings Product 64,368.39,343.07
+CA-2023-156233,06/04/2023,Same Day,Corporate,West,Office Supplies,Binders,Binders Product 11,79.57,59.99
+CA-2023-110625,05/04/2024,Second Class,Corporate,South,Office Supplies,Art,Art Product 44,29.84,22.61
+CA-2023-149522,01/21/2024,Second Class,Home Office,Central,Office Supplies,Paper,Paper Product 96,74.27,60.54
+CA-2023-151877,04/14/2023,First Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 94,88.67,70.77
+CA-2023-166458,01/28/2024,Same Day,Home Office,East,Office Supplies,Envelopes,Envelopes Product 53,61.52,49.0
+CA-2023-125939,09/03/2023,Second Class,Consumer,Central,Technology,Copiers,Copiers Product 33,1190.07,746.13
+CA-2023-180764,06/25/2023,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Product 60,61.49,49.08
+CA-2023-165901,02/08/2023,First Class,Home Office,South,Furniture,Tables,Tables Product 77,710.76,637.83
+CA-2023-186908,04/21/2024,Same Day,Corporate,East,Technology,Accessories,Accessories Product 20,1771.07,1147.21
+CA-2023-192617,11/12/2024,First Class,Consumer,West,Technology,Phones,Phones Product 95,2654.07,1721.19
+CA-2023-176234,06/21/2024,First Class,Consumer,Central,Furniture,Chairs,Chairs Product 75,344.61,288.58
+CA-2023-132933,02/12/2024,First Class,Corporate,South,Furniture,Furnishings,Furnishings Product 49,586.61,540.76
+CA-2023-186724,06/08/2024,Standard Class,Consumer,West,Office Supplies,Art,Art Product 25,7.64,5.51
+CA-2023-133340,05/20/2024,First Class,Consumer,East,Furniture,Chairs,Chairs Product 83,689.4,617.55
+CA-2023-168798,02/05/2023,First Class,Consumer,South,Technology,Machines,Machines Product 12,1964.72,1400.8
+CA-2023-179768,11/15/2024,Second Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 61,164.02,122.13
+CA-2023-191051,01/20/2023,Standard Class,Home Office,Central,Office Supplies,Fasteners,Fasteners Product 89,56.15,40.45
+CA-2023-172518,11/17/2023,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 76,116.79,86.54
+CA-2023-186669,05/26/2024,Second Class,Corporate,Central,Furniture,Tables,Tables Product 59,647.55,550.82
+CA-2023-168226,02/04/2024,Same Day,Corporate,West,Office Supplies,Envelopes,Envelopes Product 77,64.47,48.21
+CA-2023-124519,10/15/2024,Same Day,Home Office,East,Office Supplies,Paper,Paper Product 8,43.35,31.32
+CA-2023-194835,04/15/2024,First Class,Corporate,Central,Furniture,Tables,Tables Product 7,129.42,113.42
+CA-2023-188151,05/23/2023,Same Day,Home Office,East,Office Supplies,Art,Art Product 51,110.52,89.18
+CA-2023-115160,04/02/2023,Same Day,Home Office,Central,Furniture,Tables,Tables Product 94,648.25,568.41
+CA-2023-178768,12/20/2023,Standard Class,Corporate,South,Furniture,Furnishings,Furnishings Product 19,179.92,150.39
+CA-2023-125338,12/27/2024,Same Day,Corporate,East,Office Supplies,Binders,Binders Product 10,21.89,17.62
+CA-2023-165149,02/20/2023,Standard Class,Home Office,Central,Furniture,Bookcases,Bookcases Product 64,191.9,160.46
+CA-2023-115408,10/26/2024,Same Day,Consumer,West,Office Supplies,Fasteners,Fasteners Product 36,9.49,6.95
+CA-2023-112453,11/28/2024,First Class,Home Office,East,Office Supplies,Fasteners,Fasteners Product 22,183.65,135.5
+CA-2023-110692,07/28/2024,Same Day,Corporate,Central,Office Supplies,Art,Art Product 24,79.64,58.52
+CA-2023-185238,07/09/2023,First Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 55,62.46,51.34
+CA-2023-170744,05/05/2023,Same Day,Corporate,Central,Furniture,Furnishings,Furnishings Product 40,348.24,322.86
+CA-2023-186694,05/30/2023,Standard Class,Consumer,Central,Office Supplies,Binders,Binders Product 40,45.53,34.82
+CA-2023-180072,11/10/2023,First Class,Corporate,Central,Office Supplies,Art,Art Product 71,106.11,81.99
+CA-2023-144739,07/23/2024,First Class,Consumer,West,Furniture,Furnishings,Furnishings Product 13,390.34,355.1
+CA-2023-180059,12/08/2023,Second Class,Corporate,West,Technology,Phones,Phones Product 4,762.41,518.53
+CA-2023-180357,11/01/2023,First Class,Corporate,South,Technology,Copiers,Copiers Product 53,1395.95,931.56
+CA-2023-199023,11/22/2024,Second Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 72,99.22,77.43
+CA-2023-186402,11/12/2024,Same Day,Home Office,West,Office Supplies,Fasteners,Fasteners Product 59,82.76,60.87
+CA-2023-163400,02/23/2023,First Class,Corporate,West,Technology,Machines,Machines Product 84,914.36,572.71
+CA-2023-102985,03/19/2024,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 77,101.22,76.41
+CA-2023-116279,09/04/2024,Second Class,Corporate,South,Office Supplies,Envelopes,Envelopes Product 23,61.66,48.54
+CA-2023-190022,09/21/2023,Standard Class,Consumer,Central,Office Supplies,Art,Art Product 61,38.17,27.62
+CA-2023-152509,02/22/2023,First Class,Consumer,Central,Furniture,Tables,Tables Product 93,699.06,620.32
+CA-2023-147764,07/25/2024,Same Day,Home Office,West,Office Supplies,Binders,Binders Product 83,25.59,21.22
+CA-2023-178388,09/11/2024,First Class,Corporate,West,Office Supplies,Paper,Paper Product 52,67.05,49.49
+CA-2023-113409,01/05/2023,Same Day,Consumer,West,Technology,Machines,Machines Product 12,424.87,324.95
+CA-2023-118074,04/13/2023,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 42,113.78,91.92
+CA-2023-175476,07/15/2023,Standard Class,Home Office,South,Office Supplies,Art,Art Product 86,78.49,59.0
+CA-2023-125832,12/16/2023,Standard Class,Home Office,West,Furniture,Chairs,Chairs Product 88,1023.38,918.1
+CA-2023-141830,02/16/2023,Same Day,Home Office,West,Furniture,Bookcases,Bookcases Product 19,285.53,270.33
+CA-2023-156563,10/17/2024,Same Day,Corporate,East,Furniture,Furnishings,Furnishings Product 43,817.86,686.08
+CA-2023-135944,09/26/2023,Same Day,Home Office,West,Office Supplies,Labels,Labels Product 83,8.03,5.98
+CA-2023-170427,01/05/2024,Standard Class,Corporate,West,Office Supplies,Art,Art Product 40,23.38,18.51
+CA-2023-148003,09/27/2024,Second Class,Home Office,East,Office Supplies,Envelopes,Envelopes Product 16,28.86,22.64
+CA-2023-105698,04/16/2023,Second Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 73,65.86,47.63
+CA-2023-187234,10/31/2024,Second Class,Home Office,East,Office Supplies,Binders,Binders Product 15,27.48,21.83
+CA-2023-106305,10/20/2024,First Class,Home Office,West,Office Supplies,Paper,Paper Product 12,87.24,68.03
+CA-2023-126177,10/18/2024,Second Class,Home Office,West,Technology,Machines,Machines Product 89,690.57,518.4
+CA-2023-193664,04/30/2023,Same Day,Corporate,Central,Technology,Copiers,Copiers Product 52,407.26,267.85
+CA-2023-116260,08/26/2024,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 47,25.22,20.62
+CA-2023-168309,02/27/2023,Same Day,Home Office,Central,Furniture,Bookcases,Bookcases Product 40,878.3,748.67
+CA-2023-104298,12/12/2023,Standard Class,Consumer,East,Office Supplies,Paper,Paper Product 53,172.54,141.83
+CA-2023-116968,04/18/2024,First Class,Corporate,Central,Office Supplies,Art,Art Product 60,122.0,98.15
+CA-2023-134393,04/27/2023,Standard Class,Home Office,Central,Office Supplies,Art,Art Product 64,67.83,55.57
+CA-2023-141574,05/07/2023,First Class,Corporate,West,Technology,Accessories,Accessories Product 34,1065.83,692.97
+CA-2023-186567,01/28/2024,Standard Class,Home Office,West,Furniture,Furnishings,Furnishings Product 63,79.49,70.44
+CA-2023-143618,10/02/2024,Standard Class,Corporate,Central,Office Supplies,Binders,Binders Product 17,113.55,83.24
+CA-2023-166125,02/27/2023,Standard Class,Corporate,West,Office Supplies,Labels,Labels Product 14,16.87,13.05
+CA-2023-149420,09/25/2024,Standard Class,Home Office,West,Office Supplies,Labels,Labels Product 35,80.82,59.76
+CA-2023-172920,05/27/2024,Second Class,Corporate,South,Furniture,Chairs,Chairs Product 90,864.79,750.31
+CA-2023-175139,04/06/2023,Standard Class,Consumer,Central,Office Supplies,Fasteners,Fasteners Product 13,88.89,67.15
+CA-2023-124042,09/29/2024,First Class,Home Office,East,Office Supplies,Envelopes,Envelopes Product 19,21.23,16.05
+CA-2023-118279,04/28/2023,Same Day,Consumer,West,Office Supplies,Art,Art Product 71,59.19,43.3
+CA-2023-161381,07/13/2024,Second Class,Corporate,East,Office Supplies,Paper,Paper Product 79,63.71,47.19
+CA-2023-196143,08/23/2024,Second Class,Consumer,East,Office Supplies,Envelopes,Envelopes Product 96,69.76,57.85
+CA-2023-169390,05/02/2024,First Class,Home Office,South,Technology,Machines,Machines Product 45,326.53,234.02
+CA-2023-133769,08/25/2023,Standard Class,Consumer,East,Technology,Machines,Machines Product 30,2217.54,1408.03
+CA-2023-116806,09/29/2023,Same Day,Corporate,Central,Office Supplies,Binders,Binders Product 45,12.33,9.09
+CA-2023-139531,07/08/2023,Same Day,Consumer,South,Office Supplies,Fasteners,Fasteners Product 32,77.11,56.33
+CA-2023-158579,12/04/2024,Second Class,Home Office,West,Office Supplies,Binders,Binders Product 11,101.89,80.76
+CA-2023-141938,03/22/2024,Standard Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 35,44.65,35.81
+CA-2023-127386,08/03/2024,Second Class,Home Office,South,Technology,Copiers,Copiers Product 76,943.71,635.15
+CA-2023-125416,09/04/2023,First Class,Corporate,West,Office Supplies,Paper,Paper Product 47,57.93,45.94
+CA-2023-135739,03/17/2023,Second Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 25,73.05,56.91
+CA-2023-106782,06/03/2023,Standard Class,Consumer,Central,Office Supplies,Binders,Binders Product 48,16.61,12.99
+CA-2023-140149,10/17/2024,Standard Class,Home Office,East,Furniture,Bookcases,Bookcases Product 64,265.73,226.25
+CA-2023-160410,03/10/2024,First Class,Consumer,East,Office Supplies,Binders,Binders Product 99,119.42,93.01
+CA-2023-170122,03/27/2023,First Class,Home Office,East,Furniture,Tables,Tables Product 76,887.18,760.07
+CA-2023-104922,11/27/2024,First Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 72,191.44,146.27
+CA-2023-118443,10/12/2023,Standard Class,Corporate,East,Technology,Machines,Machines Product 63,1111.74,818.46
+CA-2023-152003,08/08/2023,Same Day,Corporate,West,Office Supplies,Envelopes,Envelopes Product 76,114.55,82.64
+CA-2023-152347,03/10/2023,Standard Class,Consumer,Central,Office Supplies,Fasteners,Fasteners Product 15,92.57,76.48
+CA-2023-103092,02/16/2023,Same Day,Consumer,Central,Office Supplies,Fasteners,Fasteners Product 29,71.5,57.51
+CA-2023-169855,04/04/2023,Same Day,Corporate,East,Furniture,Tables,Tables Product 30,344.37,309.92
+CA-2023-106364,03/28/2024,Same Day,Corporate,West,Office Supplies,Binders,Binders Product 36,31.05,23.38
+CA-2023-188302,07/23/2023,First Class,Consumer,East,Furniture,Bookcases,Bookcases Product 32,389.34,358.48
+CA-2023-103748,08/06/2023,Second Class,Corporate,East,Technology,Accessories,Accessories Product 44,244.61,163.41
+CA-2023-104675,04/18/2024,First Class,Corporate,Central,Furniture,Tables,Tables Product 35,431.59,383.4
+CA-2023-100287,03/07/2024,Second Class,Home Office,West,Office Supplies,Labels,Labels Product 2,91.65,65.6
+CA-2023-114758,12/07/2023,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Product 1,104.79,78.85
+CA-2023-190417,07/04/2024,Same Day,Home Office,West,Furniture,Chairs,Chairs Product 75,667.91,634.64
+CA-2023-188774,09/03/2024,Second Class,Corporate,South,Technology,Phones,Phones Product 19,1554.11,1012.93
+CA-2023-140130,10/16/2023,Same Day,Home Office,Central,Furniture,Furnishings,Furnishings Product 54,143.29,119.95
+CA-2023-156997,09/11/2023,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 10,76.71,59.66
+CA-2023-151502,12/23/2023,Standard Class,Corporate,East,Office Supplies,Paper,Paper Product 22,130.37,96.61
+CA-2023-143169,01/23/2023,Same Day,Corporate,West,Furniture,Tables,Tables Product 12,97.16,83.75
+CA-2023-169345,06/05/2024,Same Day,Home Office,West,Office Supplies,Envelopes,Envelopes Product 65,10.13,7.65
+CA-2023-126270,04/10/2023,Standard Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 15,27.19,21.59
+CA-2023-193076,06/29/2023,Second Class,Corporate,East,Technology,Copiers,Copiers Product 18,434.4,332.26
+CA-2023-106135,08/11/2023,Second Class,Consumer,East,Furniture,Tables,Tables Product 78,819.86,737.95
+CA-2023-127564,10/20/2024,Same Day,Corporate,West,Office Supplies,Labels,Labels Product 23,122.97,90.53
+CA-2023-176436,03/17/2024,Same Day,Home Office,West,Furniture,Bookcases,Bookcases Product 95,132.24,111.25
+CA-2023-184284,08/30/2024,First Class,Corporate,East,Furniture,Furnishings,Furnishings Product 44,336.47,292.65
+CA-2023-143116,11/21/2023,First Class,Home Office,Central,Technology,Accessories,Accessories Product 78,3107.43,2078.63
+CA-2023-120955,05/30/2024,First Class,Corporate,East,Furniture,Chairs,Chairs Product 87,66.15,60.23
+CA-2023-148924,01/16/2023,Second Class,Home Office,West,Technology,Phones,Phones Product 22,2117.41,1440.68
+CA-2023-125216,12/02/2023,Same Day,Home Office,East,Office Supplies,Labels,Labels Product 39,78.49,62.89
+CA-2023-168111,09/15/2023,First Class,Corporate,West,Technology,Copiers,Copiers Product 58,884.13,666.62
+CA-2023-107493,05/11/2024,Same Day,Consumer,Central,Office Supplies,Paper,Paper Product 33,57.73,43.26
+CA-2023-147315,06/09/2023,Standard Class,Consumer,Central,Office Supplies,Art,Art Product 19,83.63,68.33
+CA-2023-152664,04/19/2024,Second Class,Home Office,West,Office Supplies,Labels,Labels Product 86,105.62,79.13
+CA-2023-123154,10/25/2024,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 28,74.83,57.35
+CA-2023-154478,11/20/2024,First Class,Home Office,East,Office Supplies,Art,Art Product 26,175.95,126.12
+CA-2023-142431,11/05/2024,Second Class,Corporate,West,Office Supplies,Art,Art Product 42,17.45,13.43
+CA-2023-183886,01/15/2024,Same Day,Home Office,West,Furniture,Bookcases,Bookcases Product 61,747.82,657.44
+CA-2023-140874,06/28/2024,First Class,Consumer,West,Technology,Copiers,Copiers Product 53,1587.86,1082.43
+CA-2023-136405,11/21/2024,Standard Class,Corporate,West,Office Supplies,Paper,Paper Product 96,200.16,146.46
+CA-2023-127052,03/02/2024,First Class,Corporate,West,Office Supplies,Fasteners,Fasteners Product 57,43.56,34.19
+CA-2023-127405,09/04/2024,Second Class,Home Office,Central,Office Supplies,Fasteners,Fasteners Product 17,59.96,49.34
+CA-2023-114414,09/25/2023,Second Class,Consumer,West,Furniture,Tables,Tables Product 47,350.84,316.05
+CA-2023-111350,07/30/2024,Standard Class,Corporate,Central,Office Supplies,Fasteners,Fasteners Product 81,80.72,66.58
+CA-2023-187535,02/21/2024,Standard Class,Corporate,West,Technology,Phones,Phones Product 52,486.32,352.73
+CA-2023-191024,06/17/2023,Same Day,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 4,52.03,42.22
+CA-2023-197799,02/12/2023,Standard Class,Home Office,East,Office Supplies,Fasteners,Fasteners Product 43,48.24,39.55
+CA-2023-166972,07/09/2024,Same Day,Home Office,East,Office Supplies,Fasteners,Fasteners Product 59,23.57,19.09
+CA-2023-128633,10/12/2023,Same Day,Home Office,West,Office Supplies,Labels,Labels Product 30,17.57,12.66
+CA-2023-196035,02/01/2024,Second Class,Corporate,East,Furniture,Bookcases,Bookcases Product 71,764.14,643.56
+CA-2023-106533,01/12/2023,Second Class,Corporate,West,Office Supplies,Binders,Binders Product 18,125.04,98.84
+CA-2023-106089,08/29/2024,Standard Class,Corporate,West,Office Supplies,Labels,Labels Product 39,8.27,6.0
+CA-2023-134493,10/29/2023,Standard Class,Home Office,West,Technology,Phones,Phones Product 44,161.52,118.07
+CA-2023-198725,09/10/2023,Standard Class,Corporate,West,Furniture,Bookcases,Bookcases Product 59,214.79,191.96
+CA-2023-162320,05/13/2024,Second Class,Consumer,East,Furniture,Bookcases,Bookcases Product 66,762.32,669.76
+CA-2023-144116,02/04/2023,First Class,Home Office,South,Technology,Accessories,Accessories Product 14,1078.89,752.56
+CA-2023-157608,12/27/2024,Second Class,Consumer,Central,Furniture,Furnishings,Furnishings Product 69,369.52,323.05
+CA-2023-177606,03/31/2023,Second Class,Home Office,West,Office Supplies,Binders,Binders Product 3,43.65,31.92
+CA-2023-105515,08/27/2024,First Class,Corporate,West,Furniture,Furnishings,Furnishings Product 19,265.69,233.12
+CA-2023-187939,08/24/2024,First Class,Consumer,East,Technology,Copiers,Copiers Product 8,1712.83,1274.81
+CA-2023-172013,02/22/2024,Standard Class,Consumer,East,Office Supplies,Labels,Labels Product 15,123.4,99.49
+CA-2023-114308,04/25/2023,Same Day,Consumer,West,Office Supplies,Binders,Binders Product 80,29.57,22.6
+CA-2023-197624,09/08/2024,Standard Class,Corporate,Central,Technology,Copiers,Copiers Product 78,1157.65,732.19
+CA-2023-126026,07/15/2023,Standard Class,Corporate,South,Office Supplies,Paper,Paper Product 43,14.2,10.62
+CA-2023-118610,05/15/2024,Same Day,Home Office,Central,Office Supplies,Binders,Binders Product 9,84.99,68.88
+CA-2023-162712,09/17/2024,Second Class,Home Office,South,Office Supplies,Envelopes,Envelopes Product 6,72.34,60.06
+CA-2023-145203,05/07/2024,Second Class,Corporate,Central,Office Supplies,Fasteners,Fasteners Product 66,63.66,51.59
+CA-2023-149646,03/16/2023,Standard Class,Corporate,West,Office Supplies,Labels,Labels Product 55,69.41,50.13
+CA-2023-129709,02/17/2024,Second Class,Consumer,East,Office Supplies,Art,Art Product 65,47.97,35.87
+CA-2023-155371,01/11/2024,First Class,Home Office,West,Office Supplies,Fasteners,Fasteners Product 28,30.17,22.18
+CA-2023-105730,02/24/2024,Second Class,Home Office,West,Technology,Phones,Phones Product 80,561.4,353.72
+CA-2023-188603,12/29/2024,Same Day,Home Office,West,Office Supplies,Fasteners,Fasteners Product 46,114.11,81.54
+CA-2023-128756,10/04/2023,Standard Class,Consumer,East,Furniture,Bookcases,Bookcases Product 23,900.59,761.95
+CA-2023-122092,11/06/2024,First Class,Corporate,West,Office Supplies,Art,Art Product 97,141.47,107.35
+CA-2023-198162,01/29/2024,First Class,Home Office,West,Office Supplies,Art,Art Product 50,73.5,59.18
+CA-2023-134924,04/01/2024,Standard Class,Home Office,East,Furniture,Bookcases,Bookcases Product 40,283.8,245.87
+CA-2023-112021,07/11/2023,Standard Class,Consumer,Central,Office Supplies,Labels,Labels Product 66,59.19,46.85
+CA-2023-184517,11/19/2024,Second Class,Consumer,West,Office Supplies,Binders,Binders Product 66,92.17,66.71
+CA-2023-171186,04/09/2023,Second Class,Consumer,West,Technology,Machines,Machines Product 88,1190.91,903.39
+CA-2023-161360,07/01/2024,Same Day,Corporate,West,Office Supplies,Fasteners,Fasteners Product 89,82.83,66.0
+CA-2023-153775,04/06/2023,Second Class,Home Office,East,Office Supplies,Labels,Labels Product 42,105.4,81.97
+CA-2023-181441,10/25/2024,Standard Class,Consumer,West,Furniture,Tables,Tables Product 21,217.22,185.88
+CA-2023-166537,10/24/2024,Second Class,Corporate,Central,Office Supplies,Paper,Paper Product 18,15.52,12.75
+CA-2023-100515,07/09/2023,First Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 26,51.83,39.24
+CA-2023-162532,02/06/2023,First Class,Consumer,West,Technology,Copiers,Copiers Product 18,830.29,565.89
+CA-2023-115689,01/04/2024,Standard Class,Home Office,East,Technology,Phones,Phones Product 67,2245.81,1404.44
+CA-2023-159658,11/25/2024,First Class,Consumer,East,Furniture,Tables,Tables Product 13,149.09,139.26
+CA-2023-161431,06/08/2024,Standard Class,Home Office,West,Office Supplies,Labels,Labels Product 56,86.24,69.11
+CA-2023-117558,10/06/2023,Standard Class,Corporate,West,Technology,Machines,Machines Product 69,2191.51,1467.19
+CA-2023-197462,08/05/2023,Standard Class,Consumer,Central,Office Supplies,Paper,Paper Product 13,24.59,19.43
+CA-2023-144130,09/30/2023,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 64,32.06,24.65
+CA-2023-199694,03/03/2023,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 89,54.55,43.51
+CA-2023-131186,08/18/2024,Standard Class,Consumer,South,Office Supplies,Art,Art Product 51,105.58,85.38
+CA-2023-128350,12/29/2024,Standard Class,Consumer,South,Office Supplies,Envelopes,Envelopes Product 10,120.63,93.0
+CA-2023-163772,12/08/2023,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 46,167.6,137.43
+CA-2023-113386,02/01/2024,Second Class,Consumer,East,Office Supplies,Binders,Binders Product 90,35.49,28.14
+CA-2023-122706,11/29/2024,Same Day,Corporate,South,Furniture,Tables,Tables Product 9,953.59,820.1
+CA-2023-144066,01/19/2023,First Class,Home Office,East,Technology,Phones,Phones Product 7,1711.93,1138.77
+CA-2023-168694,06/26/2023,Standard Class,Home Office,Central,Office Supplies,Art,Art Product 33,31.27,25.68
+CA-2023-193922,09/03/2024,Same Day,Consumer,South,Furniture,Furnishings,Furnishings Product 3,529.86,483.37
+CA-2023-134159,01/31/2024,Standard Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 17,55.9,43.21
+CA-2023-170990,03/20/2024,First Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 50,20.12,15.7
+CA-2023-199287,08/21/2023,Same Day,Consumer,East,Office Supplies,Art,Art Product 94,88.97,64.81
+CA-2023-162699,03/17/2023,Second Class,Consumer,East,Technology,Phones,Phones Product 82,2068.27,1466.09
+CA-2023-121029,09/22/2023,Second Class,Home Office,East,Office Supplies,Labels,Labels Product 81,9.99,8.16
+CA-2023-151796,03/30/2024,Standard Class,Consumer,Central,Office Supplies,Paper,Paper Product 16,78.98,61.56
+CA-2023-151702,12/18/2024,Second Class,Consumer,Central,Technology,Copiers,Copiers Product 94,1480.3,1029.84
+CA-2023-167087,01/19/2024,First Class,Consumer,West,Office Supplies,Paper,Paper Product 73,64.15,46.35
+CA-2023-140277,07/17/2024,Same Day,Corporate,Central,Office Supplies,Paper,Paper Product 55,19.68,15.01
+CA-2023-123488,05/20/2024,First Class,Consumer,Central,Office Supplies,Art,Art Product 4,15.36,11.42
+CA-2023-110400,01/02/2024,Same Day,Corporate,East,Office Supplies,Binders,Binders Product 60,16.1,11.94
+CA-2023-104567,05/24/2023,Same Day,Consumer,West,Technology,Copiers,Copiers Product 18,649.21,425.69
+CA-2023-157769,03/10/2023,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Product 54,63.01,47.2
+CA-2023-171927,04/09/2023,Second Class,Corporate,West,Furniture,Tables,Tables Product 70,476.34,451.23
+CA-2023-131601,01/31/2024,First Class,Consumer,Central,Office Supplies,Paper,Paper Product 78,114.17,89.22
+CA-2023-192850,01/25/2023,Second Class,Home Office,East,Technology,Machines,Machines Product 65,911.16,664.87
+CA-2023-190194,04/13/2024,Second Class,Home Office,East,Technology,Phones,Phones Product 60,563.83,426.99
+CA-2023-118557,04/28/2024,Standard Class,Home Office,West,Office Supplies,Fasteners,Fasteners Product 98,65.13,46.67
+CA-2023-104368,07/18/2024,Second Class,Corporate,Central,Technology,Accessories,Accessories Product 79,256.07,184.32
+CA-2023-180440,05/31/2023,Same Day,Corporate,South,Office Supplies,Fasteners,Fasteners Product 1,92.0,73.2
+CA-2023-155514,05/24/2023,Standard Class,Consumer,East,Technology,Phones,Phones Product 61,359.68,266.12
+CA-2023-149737,07/22/2024,Same Day,Home Office,East,Office Supplies,Binders,Binders Product 59,72.59,53.62
+CA-2023-139725,02/08/2023,Standard Class,Corporate,West,Technology,Copiers,Copiers Product 71,1376.09,948.3
+CA-2023-180356,04/19/2023,Same Day,Corporate,Central,Office Supplies,Binders,Binders Product 84,26.4,20.92
+CA-2023-182821,11/23/2024,Standard Class,Consumer,East,Office Supplies,Labels,Labels Product 26,87.92,64.71
+CA-2023-149699,02/11/2023,Standard Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 57,130.81,97.11
+CA-2023-108997,07/05/2023,First Class,Corporate,West,Office Supplies,Binders,Binders Product 35,94.73,77.53
+CA-2023-161078,02/02/2024,First Class,Home Office,Central,Office Supplies,Labels,Labels Product 31,26.19,18.87
+CA-2023-183123,08/11/2023,Same Day,Corporate,West,Technology,Machines,Machines Product 71,1833.43,1248.45
+CA-2023-123760,09/25/2024,Standard Class,Corporate,South,Technology,Accessories,Accessories Product 42,1754.34,1240.14
+CA-2023-160942,05/13/2023,Second Class,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 64,83.15,62.09
+CA-2023-188177,06/12/2023,First Class,Consumer,West,Office Supplies,Binders,Binders Product 87,63.64,49.89
+CA-2023-145156,08/03/2023,Same Day,Home Office,East,Office Supplies,Binders,Binders Product 41,42.43,35.03
+CA-2023-104823,08/23/2023,Standard Class,Consumer,East,Furniture,Furnishings,Furnishings Product 62,232.31,205.29
+CA-2023-151567,10/19/2024,Second Class,Corporate,Central,Technology,Copiers,Copiers Product 21,1883.17,1396.48
+CA-2023-179401,08/10/2024,Same Day,Consumer,West,Office Supplies,Labels,Labels Product 17,75.32,57.63
+CA-2023-154675,01/09/2023,Same Day,Home Office,South,Office Supplies,Paper,Paper Product 9,19.11,15.92
+CA-2023-137394,03/15/2023,Second Class,Corporate,West,Office Supplies,Art,Art Product 26,61.25,49.18
+CA-2023-163456,05/06/2024,Second Class,Home Office,West,Office Supplies,Paper,Paper Product 33,61.34,47.26
+CA-2023-119810,09/10/2023,Same Day,Consumer,West,Office Supplies,Art,Art Product 46,63.28,46.2
+CA-2023-115896,08/18/2023,Second Class,Corporate,Central,Office Supplies,Labels,Labels Product 58,97.67,75.76
+CA-2023-193254,06/02/2024,Standard Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 90,82.72,63.82
+CA-2023-168546,06/23/2023,Same Day,Consumer,West,Office Supplies,Paper,Paper Product 2,98.69,76.12
+CA-2023-187968,10/14/2024,Standard Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 98,46.6,33.47
+CA-2023-183521,06/17/2023,Second Class,Consumer,West,Office Supplies,Labels,Labels Product 77,29.49,24.57
+CA-2023-101299,06/19/2023,First Class,Corporate,West,Office Supplies,Fasteners,Fasteners Product 12,24.45,18.14
+CA-2023-177355,01/28/2024,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 64,56.45,44.74
+CA-2023-195965,09/25/2024,Standard Class,Home Office,East,Furniture,Tables,Tables Product 96,346.88,295.88
+CA-2023-122884,07/13/2023,Same Day,Home Office,Central,Technology,Accessories,Accessories Product 11,606.29,389.79
+CA-2023-136132,05/31/2024,Standard Class,Home Office,East,Office Supplies,Art,Art Product 70,27.8,20.72
+CA-2023-186437,01/29/2023,Same Day,Corporate,Central,Office Supplies,Labels,Labels Product 35,104.0,76.06
+CA-2023-110358,06/14/2023,Second Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 17,88.11,71.14
+CA-2023-130825,02/26/2024,Standard Class,Corporate,South,Furniture,Tables,Tables Product 82,739.26,658.68
+CA-2023-133541,12/05/2023,Same Day,Consumer,Central,Office Supplies,Binders,Binders Product 63,33.34,24.8
+CA-2023-101674,10/09/2024,Same Day,Consumer,Central,Furniture,Furnishings,Furnishings Product 85,471.3,417.34
+CA-2023-110492,05/10/2024,Second Class,Corporate,Central,Technology,Copiers,Copiers Product 86,1676.41,1184.19
+CA-2023-172534,12/31/2023,First Class,Consumer,West,Office Supplies,Binders,Binders Product 38,24.04,17.44
+CA-2023-115734,12/08/2023,Second Class,Corporate,East,Technology,Phones,Phones Product 51,1606.85,1147.01
+CA-2023-121751,05/14/2024,Second Class,Consumer,East,Office Supplies,Art,Art Product 39,18.29,13.11
+CA-2023-100755,10/18/2024,Same Day,Corporate,East,Office Supplies,Art,Art Product 52,107.17,79.39
+CA-2023-199041,05/25/2024,Standard Class,Corporate,West,Office Supplies,Binders,Binders Product 31,73.18,59.8
+CA-2023-131406,11/23/2023,Standard Class,Consumer,East,Furniture,Furnishings,Furnishings Product 35,1236.37,1136.75
+CA-2023-151287,08/05/2023,Same Day,Consumer,South,Technology,Phones,Phones Product 53,1258.73,899.27
+CA-2023-115577,10/28/2023,Same Day,Consumer,West,Furniture,Furnishings,Furnishings Product 40,938.27,794.95
+CA-2023-197554,05/12/2023,Second Class,Home Office,East,Office Supplies,Binders,Binders Product 80,83.82,64.92
+CA-2023-186072,03/11/2023,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 54,13.41,10.34
+CA-2023-147801,09/09/2023,Second Class,Home Office,East,Office Supplies,Labels,Labels Product 75,33.79,25.93
+CA-2023-113569,02/19/2024,First Class,Consumer,West,Office Supplies,Binders,Binders Product 90,53.9,40.81
+CA-2023-168580,03/20/2024,Standard Class,Consumer,East,Office Supplies,Fasteners,Fasteners Product 52,99.69,77.8
+CA-2023-117143,07/01/2023,First Class,Home Office,Central,Office Supplies,Labels,Labels Product 32,47.97,35.04
+CA-2023-188074,06/16/2023,Same Day,Corporate,South,Office Supplies,Envelopes,Envelopes Product 23,99.52,76.86
+CA-2023-192071,04/01/2023,Standard Class,Home Office,South,Office Supplies,Labels,Labels Product 94,26.62,19.06
+CA-2023-113161,12/14/2024,Standard Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 97,172.94,127.0
+CA-2023-104379,06/14/2024,Same Day,Home Office,East,Furniture,Furnishings,Furnishings Product 98,403.42,352.27
+CA-2023-172778,02/08/2023,Second Class,Corporate,East,Office Supplies,Binders,Binders Product 33,70.0,51.37
+CA-2023-146762,05/06/2023,Standard Class,Home Office,Central,Office Supplies,Paper,Paper Product 5,107.69,77.71
+CA-2023-126627,03/26/2024,First Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 36,40.18,31.86
+CA-2023-142292,06/22/2023,Second Class,Home Office,South,Technology,Copiers,Copiers Product 63,647.0,434.62
+CA-2023-156574,10/14/2024,Standard Class,Corporate,Central,Office Supplies,Binders,Binders Product 42,98.26,76.84
+CA-2023-189254,08/08/2023,Same Day,Corporate,East,Technology,Copiers,Copiers Product 91,749.85,519.9
+CA-2023-171101,09/29/2024,Second Class,Home Office,West,Technology,Accessories,Accessories Product 49,1800.42,1338.08
+CA-2023-137335,02/27/2023,Same Day,Home Office,Central,Office Supplies,Envelopes,Envelopes Product 31,63.61,52.94
+CA-2023-186704,10/21/2024,Same Day,Corporate,West,Office Supplies,Art,Art Product 77,73.88,53.88
+CA-2023-103491,04/20/2024,First Class,Corporate,Central,Technology,Copiers,Copiers Product 49,1963.91,1414.43
+CA-2023-164926,03/31/2024,Second Class,Home Office,East,Furniture,Chairs,Chairs Product 84,428.79,362.87
+CA-2023-115504,12/27/2023,Second Class,Consumer,South,Furniture,Furnishings,Furnishings Product 30,472.2,425.3
+CA-2023-180691,01/01/2023,First Class,Consumer,East,Office Supplies,Fasteners,Fasteners Product 44,21.74,17.26
+CA-2023-119423,01/22/2024,Second Class,Consumer,East,Furniture,Bookcases,Bookcases Product 69,831.54,754.94
+CA-2023-119122,12/14/2023,Standard Class,Consumer,Central,Office Supplies,Binders,Binders Product 78,151.73,108.63
+CA-2023-135897,07/09/2023,Standard Class,Corporate,West,Furniture,Chairs,Chairs Product 61,115.65,109.41
+CA-2023-165184,05/19/2024,Standard Class,Corporate,West,Technology,Machines,Machines Product 62,211.76,137.95
+CA-2023-155390,07/10/2023,Second Class,Consumer,South,Office Supplies,Paper,Paper Product 58,123.44,98.74
+CA-2023-174710,05/22/2024,Same Day,Corporate,East,Office Supplies,Envelopes,Envelopes Product 28,129.57,93.06
+CA-2023-171260,01/04/2024,First Class,Consumer,South,Office Supplies,Labels,Labels Product 3,75.5,60.08
+CA-2023-178462,02/13/2024,Standard Class,Corporate,East,Technology,Machines,Machines Product 84,290.28,215.6
+CA-2023-195599,04/27/2023,First Class,Corporate,West,Office Supplies,Labels,Labels Product 77,113.42,87.62
+CA-2023-122738,05/14/2023,Same Day,Home Office,West,Office Supplies,Paper,Paper Product 42,7.61,5.59
+CA-2023-190369,02/27/2023,First Class,Corporate,Central,Technology,Copiers,Copiers Product 17,1573.21,1203.48
+CA-2023-171206,07/09/2024,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 25,42.25,32.31
+CA-2023-151012,11/15/2024,Second Class,Corporate,South,Technology,Copiers,Copiers Product 12,2535.98,1924.53
+CA-2023-121120,11/02/2024,First Class,Consumer,Central,Furniture,Tables,Tables Product 24,1014.98,943.67
+CA-2023-150251,06/22/2023,Same Day,Consumer,East,Office Supplies,Art,Art Product 1,75.81,59.77
+CA-2023-168475,05/29/2023,Second Class,Corporate,Central,Office Supplies,Art,Art Product 32,7.8,5.86
+CA-2023-129777,03/21/2023,Same Day,Corporate,South,Office Supplies,Binders,Binders Product 34,92.32,67.16
+CA-2023-135208,08/01/2023,First Class,Consumer,East,Office Supplies,Binders,Binders Product 51,21.9,17.48
+CA-2023-171846,07/22/2023,Same Day,Consumer,South,Technology,Phones,Phones Product 66,1235.07,819.54
+CA-2023-113180,08/17/2023,Second Class,Home Office,East,Office Supplies,Fasteners,Fasteners Product 88,37.14,30.34
+CA-2023-138507,11/06/2024,Second Class,Corporate,West,Furniture,Bookcases,Bookcases Product 12,483.27,430.09
+CA-2023-114457,08/15/2023,Standard Class,Home Office,Central,Office Supplies,Binders,Binders Product 95,62.15,47.25
+CA-2023-133477,10/20/2024,Second Class,Corporate,South,Technology,Machines,Machines Product 51,336.7,224.01
+CA-2023-111620,06/15/2024,Second Class,Home Office,South,Office Supplies,Envelopes,Envelopes Product 86,95.79,70.28
+CA-2023-175020,03/16/2024,Same Day,Corporate,East,Technology,Machines,Machines Product 88,283.95,196.5
+CA-2023-128552,02/06/2024,First Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 24,103.84,77.23
+CA-2023-189080,02/16/2023,Standard Class,Corporate,West,Technology,Copiers,Copiers Product 56,2212.32,1436.53
+CA-2023-163749,08/21/2023,Standard Class,Consumer,East,Office Supplies,Labels,Labels Product 2,118.47,86.54
+CA-2023-194202,11/01/2023,Second Class,Corporate,West,Furniture,Furnishings,Furnishings Product 55,354.21,329.07
+CA-2023-179955,06/09/2024,First Class,Home Office,East,Technology,Copiers,Copiers Product 57,1100.41,724.86
+CA-2023-103407,05/23/2023,Same Day,Consumer,East,Office Supplies,Envelopes,Envelopes Product 5,71.67,55.49
+CA-2023-136713,02/19/2024,Same Day,Corporate,West,Office Supplies,Fasteners,Fasteners Product 31,117.53,89.46
+CA-2023-155711,05/27/2024,Same Day,Consumer,East,Office Supplies,Labels,Labels Product 80,42.62,34.47
+CA-2023-169526,01/08/2024,First Class,Corporate,Central,Office Supplies,Paper,Paper Product 2,59.46,48.23
+CA-2023-120316,07/19/2024,Same Day,Consumer,Central,Technology,Copiers,Copiers Product 33,387.56,259.55
+CA-2023-114116,09/16/2023,Second Class,Home Office,East,Office Supplies,Labels,Labels Product 10,10.98,8.27
+CA-2023-126639,10/17/2024,Second Class,Corporate,East,Office Supplies,Art,Art Product 28,96.09,70.71
+CA-2023-185366,04/15/2024,Same Day,Consumer,East,Office Supplies,Labels,Labels Product 20,60.32,49.39
+CA-2023-157241,01/12/2023,Same Day,Home Office,East,Office Supplies,Art,Art Product 53,46.34,35.0
+CA-2023-155182,11/26/2023,Same Day,Corporate,West,Furniture,Chairs,Chairs Product 19,1296.64,1135.86
+CA-2023-189126,12/24/2023,Same Day,Corporate,East,Office Supplies,Labels,Labels Product 64,160.18,129.79
+CA-2023-164922,02/12/2024,Standard Class,Consumer,West,Office Supplies,Art,Art Product 46,9.83,7.34
+CA-2023-114016,10/29/2024,First Class,Home Office,West,Furniture,Furnishings,Furnishings Product 28,764.3,666.38
+CA-2023-176478,01/08/2024,First Class,Corporate,Central,Technology,Phones,Phones Product 64,1701.7,1152.51
+CA-2023-148542,01/08/2023,Second Class,Corporate,West,Technology,Phones,Phones Product 85,1005.11,697.65
+CA-2023-128036,05/02/2023,Second Class,Corporate,Central,Furniture,Tables,Tables Product 90,880.4,735.41
+CA-2023-120750,12/14/2023,First Class,Consumer,East,Office Supplies,Envelopes,Envelopes Product 3,19.84,15.64
+CA-2023-192906,11/06/2024,Standard Class,Corporate,Central,Technology,Machines,Machines Product 38,3497.45,2192.87
+CA-2023-163370,03/31/2023,Same Day,Consumer,West,Office Supplies,Fasteners,Fasteners Product 64,61.58,45.02
+CA-2023-194455,10/09/2024,Same Day,Corporate,West,Office Supplies,Art,Art Product 93,78.26,64.95
+CA-2023-124143,11/28/2024,Same Day,Consumer,East,Office Supplies,Fasteners,Fasteners Product 86,151.82,115.32
+CA-2023-170309,11/12/2023,First Class,Corporate,South,Technology,Phones,Phones Product 73,2499.2,1914.73
+CA-2023-138826,06/27/2023,Same Day,Home Office,Central,Office Supplies,Art,Art Product 42,37.43,31.05
+CA-2023-176312,06/23/2024,Standard Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 87,42.79,31.96
+CA-2023-196261,02/10/2023,Standard Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 66,47.61,37.61
+CA-2023-199108,12/04/2024,Same Day,Home Office,South,Furniture,Tables,Tables Product 84,1073.0,1013.77
+CA-2023-178572,05/16/2024,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 46,55.55,46.04
+CA-2023-159840,05/25/2023,Same Day,Home Office,South,Office Supplies,Fasteners,Fasteners Product 24,77.44,64.02
+CA-2023-195119,07/20/2023,First Class,Consumer,West,Office Supplies,Art,Art Product 65,82.73,66.36
+CA-2023-163884,12/24/2024,Second Class,Home Office,East,Office Supplies,Art,Art Product 41,190.39,137.41
+CA-2023-111801,04/05/2024,Standard Class,Consumer,South,Office Supplies,Art,Art Product 2,60.7,48.49
+CA-2023-165140,07/11/2024,Same Day,Consumer,West,Technology,Machines,Machines Product 56,603.51,412.32
+CA-2023-167288,06/30/2024,Same Day,Corporate,West,Furniture,Tables,Tables Product 69,128.34,119.76
+CA-2023-196612,09/10/2023,Standard Class,Consumer,East,Furniture,Tables,Tables Product 80,451.58,389.28
+CA-2023-124363,01/25/2024,First Class,Home Office,East,Office Supplies,Fasteners,Fasteners Product 54,33.32,26.79
+CA-2023-139390,08/16/2024,Second Class,Consumer,East,Furniture,Chairs,Chairs Product 48,815.5,718.23
+CA-2023-106073,09/13/2023,First Class,Home Office,Central,Office Supplies,Art,Art Product 41,87.34,70.14
+CA-2023-149692,12/09/2024,First Class,Corporate,West,Office Supplies,Labels,Labels Product 99,159.84,123.94
+CA-2023-130544,03/25/2024,Standard Class,Consumer,East,Office Supplies,Binders,Binders Product 49,130.4,93.94
+CA-2023-142012,01/10/2023,Standard Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 15,110.62,88.19
+CA-2023-159473,08/30/2023,Second Class,Consumer,East,Office Supplies,Binders,Binders Product 80,9.78,7.67
+CA-2023-126028,09/08/2023,Second Class,Corporate,South,Technology,Machines,Machines Product 20,986.78,667.28
+CA-2023-141846,01/05/2023,Second Class,Consumer,South,Technology,Phones,Phones Product 37,1624.29,1227.69
+CA-2023-191038,04/29/2023,Standard Class,Consumer,East,Furniture,Tables,Tables Product 33,691.81,646.33
+CA-2023-186489,01/09/2024,Standard Class,Consumer,East,Office Supplies,Fasteners,Fasteners Product 26,34.25,25.25
+CA-2023-117548,03/06/2023,First Class,Home Office,Central,Office Supplies,Art,Art Product 9,83.18,64.82
+CA-2023-181899,05/26/2023,First Class,Corporate,East,Furniture,Tables,Tables Product 77,98.76,92.47
+CA-2023-103895,08/12/2023,First Class,Home Office,West,Technology,Accessories,Accessories Product 30,279.55,188.46
+CA-2023-142498,08/27/2023,Second Class,Consumer,Central,Furniture,Tables,Tables Product 53,532.9,486.68
+CA-2023-175235,06/26/2023,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 90,84.79,61.56
+CA-2023-161108,10/09/2023,First Class,Corporate,East,Furniture,Furnishings,Furnishings Product 30,126.48,120.17
+CA-2023-186296,03/04/2023,First Class,Consumer,West,Office Supplies,Paper,Paper Product 72,119.03,96.11
+CA-2023-149853,08/05/2023,First Class,Corporate,East,Office Supplies,Art,Art Product 39,9.09,6.9
+CA-2023-174094,11/19/2024,Same Day,Home Office,West,Office Supplies,Paper,Paper Product 96,95.04,70.58
+CA-2023-107856,04/05/2024,Second Class,Consumer,East,Office Supplies,Labels,Labels Product 13,56.83,46.82
+CA-2023-109969,09/01/2024,Standard Class,Corporate,South,Furniture,Bookcases,Bookcases Product 77,433.62,386.06
+CA-2023-161313,04/15/2023,Standard Class,Corporate,Central,Technology,Accessories,Accessories Product 38,961.69,718.11
+CA-2023-163248,04/09/2023,First Class,Corporate,East,Furniture,Tables,Tables Product 70,550.33,489.68
+CA-2023-158466,05/25/2024,Second Class,Corporate,South,Technology,Accessories,Accessories Product 48,2092.31,1433.17
+CA-2023-191529,01/20/2024,Standard Class,Home Office,East,Office Supplies,Binders,Binders Product 79,120.58,93.34
+CA-2023-137921,02/09/2024,First Class,Corporate,West,Office Supplies,Paper,Paper Product 59,124.85,93.03
+CA-2023-165864,06/01/2024,Same Day,Consumer,South,Office Supplies,Paper,Paper Product 94,93.77,72.92
+CA-2023-156017,04/20/2024,Same Day,Consumer,West,Office Supplies,Paper,Paper Product 37,91.25,68.97
+CA-2023-162637,12/09/2024,Standard Class,Home Office,West,Office Supplies,Art,Art Product 15,116.83,83.5
+CA-2023-113503,10/06/2024,Same Day,Home Office,West,Office Supplies,Binders,Binders Product 87,118.26,92.88
+CA-2023-158701,03/12/2024,Same Day,Consumer,East,Technology,Machines,Machines Product 53,1687.53,1255.62
+CA-2023-195380,01/23/2023,Standard Class,Consumer,West,Office Supplies,Binders,Binders Product 70,119.77,90.41
+CA-2023-168222,07/18/2024,First Class,Corporate,South,Office Supplies,Envelopes,Envelopes Product 76,70.31,50.97
+CA-2023-119613,11/07/2024,Standard Class,Consumer,South,Technology,Accessories,Accessories Product 69,881.63,571.91
+CA-2023-155718,12/14/2024,Second Class,Corporate,East,Furniture,Chairs,Chairs Product 92,596.33,499.13
+CA-2023-168322,04/02/2024,Second Class,Home Office,West,Office Supplies,Art,Art Product 58,22.36,18.59
+CA-2023-136901,03/24/2023,Same Day,Corporate,East,Furniture,Chairs,Chairs Product 32,841.63,727.39
+CA-2023-199122,05/25/2023,Standard Class,Consumer,East,Office Supplies,Paper,Paper Product 48,25.52,19.19
+CA-2023-102017,03/26/2023,Second Class,Home Office,East,Furniture,Bookcases,Bookcases Product 47,619.79,532.3
+CA-2023-103543,03/19/2023,Same Day,Corporate,South,Furniture,Furnishings,Furnishings Product 88,882.46,784.21
+CA-2023-188780,04/01/2024,Standard Class,Corporate,South,Office Supplies,Envelopes,Envelopes Product 46,103.21,82.43
+CA-2023-188534,01/01/2023,Same Day,Corporate,West,Technology,Accessories,Accessories Product 96,730.86,467.77
+CA-2023-181103,02/20/2023,Standard Class,Corporate,South,Office Supplies,Envelopes,Envelopes Product 49,17.79,14.18
+CA-2023-190639,11/15/2024,First Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 23,112.84,92.08
+CA-2023-124976,12/17/2024,First Class,Consumer,West,Technology,Machines,Machines Product 58,1873.18,1212.89
+CA-2023-139500,03/21/2024,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 33,82.27,60.52
+CA-2023-175701,03/24/2024,Standard Class,Home Office,East,Technology,Accessories,Accessories Product 99,1458.77,923.06
+CA-2023-162665,05/02/2024,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 16,44.87,36.73
+CA-2023-133798,02/03/2023,Same Day,Home Office,West,Furniture,Chairs,Chairs Product 40,416.96,385.51
+CA-2023-123535,12/14/2023,Standard Class,Consumer,West,Furniture,Bookcases,Bookcases Product 27,690.87,578.22
+CA-2023-148037,04/05/2023,First Class,Corporate,East,Office Supplies,Binders,Binders Product 55,16.37,12.28
+CA-2023-115385,03/13/2023,Standard Class,Corporate,Central,Office Supplies,Fasteners,Fasteners Product 71,121.3,92.12
+CA-2023-184585,07/04/2024,Same Day,Consumer,West,Office Supplies,Binders,Binders Product 36,56.62,45.74
+CA-2023-177658,06/03/2023,Standard Class,Home Office,South,Furniture,Furnishings,Furnishings Product 82,162.4,142.77
+CA-2023-186335,09/07/2023,Same Day,Corporate,Central,Furniture,Chairs,Chairs Product 83,662.65,576.8
+CA-2023-144527,11/04/2024,First Class,Corporate,West,Office Supplies,Envelopes,Envelopes Product 12,11.28,8.06
+CA-2023-183569,03/13/2024,First Class,Corporate,West,Office Supplies,Art,Art Product 84,55.02,40.72
+CA-2023-132826,04/28/2023,Second Class,Home Office,West,Furniture,Furnishings,Furnishings Product 66,612.92,574.54
+CA-2023-115357,11/02/2023,Second Class,Corporate,West,Furniture,Chairs,Chairs Product 99,241.72,207.76
+CA-2023-146157,09/25/2023,Same Day,Home Office,East,Technology,Machines,Machines Product 21,1332.94,911.68
+CA-2023-174099,02/23/2023,Same Day,Corporate,Central,Office Supplies,Art,Art Product 69,88.62,68.24
+CA-2023-187458,08/24/2023,Standard Class,Consumer,East,Office Supplies,Fasteners,Fasteners Product 97,59.26,47.76
+CA-2023-126849,01/24/2024,Second Class,Corporate,East,Office Supplies,Paper,Paper Product 12,13.92,10.18
+CA-2023-102972,02/05/2024,Standard Class,Home Office,East,Furniture,Chairs,Chairs Product 14,346.08,298.74
+CA-2023-138231,09/15/2024,Second Class,Home Office,East,Furniture,Chairs,Chairs Product 24,68.2,61.77
+CA-2023-135863,10/30/2023,Standard Class,Corporate,Central,Furniture,Furnishings,Furnishings Product 57,868.93,753.11
+CA-2023-159274,07/26/2023,Second Class,Corporate,East,Technology,Copiers,Copiers Product 93,1540.94,1084.59
+CA-2023-167863,08/17/2023,Same Day,Corporate,South,Technology,Machines,Machines Product 53,812.77,572.1
+CA-2023-104381,07/31/2024,Same Day,Home Office,West,Office Supplies,Art,Art Product 26,114.17,93.51
+CA-2023-155206,03/16/2023,Second Class,Home Office,East,Furniture,Tables,Tables Product 78,356.85,321.21
+CA-2023-144143,03/10/2024,Standard Class,Home Office,West,Furniture,Tables,Tables Product 69,921.37,789.45
+CA-2023-174599,04/13/2023,First Class,Home Office,South,Office Supplies,Binders,Binders Product 61,119.92,97.35
+CA-2023-158408,02/26/2024,Same Day,Consumer,Central,Office Supplies,Binders,Binders Product 78,76.43,56.69
+CA-2023-181434,12/04/2024,Same Day,Corporate,West,Furniture,Bookcases,Bookcases Product 19,1178.73,1078.36
+CA-2023-145807,11/02/2023,Second Class,Home Office,South,Office Supplies,Labels,Labels Product 3,144.59,103.42
+CA-2023-128469,04/08/2023,Second Class,Home Office,West,Furniture,Tables,Tables Product 93,767.23,681.9
+CA-2023-116608,12/01/2023,Second Class,Corporate,South,Technology,Accessories,Accessories Product 72,2770.79,2099.58
+CA-2023-121630,03/10/2024,Same Day,Consumer,West,Office Supplies,Envelopes,Envelopes Product 27,85.82,62.65
+CA-2023-172388,03/22/2024,Standard Class,Corporate,West,Furniture,Furnishings,Furnishings Product 42,233.46,205.63
+CA-2023-146389,11/04/2023,Same Day,Corporate,South,Office Supplies,Art,Art Product 62,194.73,144.93
+CA-2023-159055,09/06/2023,Same Day,Home Office,West,Furniture,Furnishings,Furnishings Product 49,346.11,328.8
+CA-2023-101831,06/15/2023,Second Class,Home Office,Central,Furniture,Furnishings,Furnishings Product 17,423.04,382.35
+CA-2023-110683,04/25/2024,Standard Class,Consumer,West,Technology,Accessories,Accessories Product 58,1434.71,1039.02
+CA-2023-130348,12/01/2023,Standard Class,Consumer,West,Office Supplies,Binders,Binders Product 8,141.01,105.11
+CA-2023-125496,06/25/2024,Standard Class,Consumer,South,Furniture,Chairs,Chairs Product 62,330.23,286.56
+CA-2023-122912,04/16/2023,Same Day,Corporate,West,Office Supplies,Labels,Labels Product 30,37.9,28.1
+CA-2023-135670,07/16/2024,Same Day,Home Office,East,Office Supplies,Art,Art Product 75,88.19,66.3
+CA-2023-174123,03/22/2023,First Class,Home Office,West,Office Supplies,Binders,Binders Product 62,87.02,72.43
+CA-2023-130028,05/13/2023,First Class,Home Office,East,Technology,Copiers,Copiers Product 24,2264.61,1437.03
+CA-2023-194491,05/18/2023,Same Day,Home Office,West,Technology,Accessories,Accessories Product 79,1088.58,757.73
+CA-2023-128615,07/03/2023,Same Day,Corporate,East,Furniture,Tables,Tables Product 77,603.22,548.01
+CA-2023-120842,02/05/2024,Second Class,Consumer,East,Office Supplies,Labels,Labels Product 43,116.53,83.62
+CA-2023-103650,11/26/2023,Second Class,Consumer,East,Furniture,Bookcases,Bookcases Product 86,1251.06,1078.57
+CA-2023-118768,05/22/2024,Second Class,Corporate,West,Furniture,Chairs,Chairs Product 8,681.83,595.45
+CA-2023-190365,03/10/2023,Standard Class,Corporate,South,Office Supplies,Binders,Binders Product 17,61.34,46.84
+CA-2023-191737,06/29/2024,First Class,Home Office,West,Office Supplies,Fasteners,Fasteners Product 73,55.82,44.3
+CA-2023-117358,02/22/2023,Same Day,Corporate,South,Office Supplies,Envelopes,Envelopes Product 43,105.9,78.62
+CA-2023-150493,03/25/2024,Standard Class,Corporate,West,Furniture,Tables,Tables Product 89,275.18,246.71
+CA-2023-133161,07/24/2023,Same Day,Consumer,West,Office Supplies,Binders,Binders Product 92,29.88,22.18
+CA-2023-136538,05/06/2023,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 64,70.33,57.51
+CA-2023-139601,02/12/2023,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 33,10.67,8.09
+CA-2023-166425,04/21/2023,Standard Class,Corporate,West,Furniture,Tables,Tables Product 46,531.83,502.94
+CA-2023-124485,10/24/2024,Same Day,Corporate,South,Office Supplies,Fasteners,Fasteners Product 30,81.31,63.47
+CA-2023-143052,07/02/2023,Same Day,Home Office,East,Technology,Accessories,Accessories Product 59,1180.54,781.45
+CA-2023-117221,04/05/2023,First Class,Consumer,Central,Technology,Machines,Machines Product 34,1579.86,1021.13
+CA-2023-148340,01/09/2024,Same Day,Home Office,West,Office Supplies,Paper,Paper Product 53,21.05,16.12
+CA-2023-148367,06/03/2024,Second Class,Home Office,West,Office Supplies,Art,Art Product 49,118.81,97.19
+CA-2023-176928,12/26/2023,Standard Class,Consumer,East,Office Supplies,Labels,Labels Product 24,64.23,50.1
+CA-2023-167808,11/26/2024,First Class,Corporate,Central,Office Supplies,Binders,Binders Product 73,147.24,118.72
+CA-2023-176428,10/08/2023,First Class,Home Office,Central,Furniture,Bookcases,Bookcases Product 39,300.58,265.08
+CA-2023-195359,07/14/2023,Second Class,Consumer,Central,Office Supplies,Paper,Paper Product 15,116.02,85.32
+CA-2023-125596,07/14/2023,Same Day,Home Office,East,Office Supplies,Binders,Binders Product 81,32.85,26.44
+CA-2023-107244,10/28/2024,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 75,107.38,84.35
+CA-2023-169586,04/03/2023,Second Class,Home Office,South,Technology,Phones,Phones Product 66,644.62,408.61
+CA-2023-158971,11/02/2024,Second Class,Home Office,South,Office Supplies,Binders,Binders Product 97,191.26,145.8
+CA-2023-146412,03/02/2023,Standard Class,Consumer,East,Office Supplies,Art,Art Product 82,37.58,27.86
+CA-2023-182524,09/25/2024,Same Day,Consumer,South,Furniture,Bookcases,Bookcases Product 17,343.53,324.71
+CA-2023-193955,02/20/2023,Same Day,Corporate,Central,Office Supplies,Paper,Paper Product 77,57.84,43.32
+CA-2023-192320,02/07/2024,Second Class,Consumer,East,Office Supplies,Paper,Paper Product 16,99.57,76.01
+CA-2023-154615,01/05/2023,First Class,Consumer,Central,Technology,Copiers,Copiers Product 66,675.88,478.96
+CA-2023-106256,04/10/2024,First Class,Consumer,East,Office Supplies,Envelopes,Envelopes Product 90,67.82,52.67
+CA-2023-170382,08/26/2024,First Class,Home Office,West,Office Supplies,Paper,Paper Product 99,60.65,48.13
+CA-2023-165936,11/12/2024,Same Day,Consumer,West,Office Supplies,Fasteners,Fasteners Product 87,15.77,11.65
+CA-2023-101353,06/17/2024,First Class,Corporate,South,Office Supplies,Art,Art Product 76,70.46,54.41
+CA-2023-120800,02/09/2024,Second Class,Corporate,Central,Office Supplies,Art,Art Product 88,96.95,77.59
+CA-2023-154213,05/27/2024,Second Class,Home Office,West,Office Supplies,Binders,Binders Product 60,30.37,24.08
+CA-2023-135825,10/06/2024,First Class,Home Office,West,Technology,Accessories,Accessories Product 52,1856.13,1230.96
+CA-2023-171319,08/21/2023,Standard Class,Home Office,West,Office Supplies,Labels,Labels Product 10,72.83,54.84
+CA-2023-111586,06/07/2024,Same Day,Home Office,West,Office Supplies,Fasteners,Fasteners Product 92,35.04,26.54
+CA-2023-121390,12/12/2023,Second Class,Corporate,West,Technology,Machines,Machines Product 88,2892.44,2023.7
+CA-2023-147013,02/15/2023,Second Class,Corporate,Central,Office Supplies,Envelopes,Envelopes Product 65,55.89,44.71
+CA-2023-124124,06/29/2024,First Class,Consumer,Central,Office Supplies,Paper,Paper Product 12,104.5,81.79
+CA-2023-112055,03/19/2023,Second Class,Consumer,East,Office Supplies,Binders,Binders Product 60,100.85,80.31
+CA-2023-129377,12/30/2024,Same Day,Corporate,Central,Furniture,Chairs,Chairs Product 75,855.84,758.41
+CA-2023-113877,03/14/2023,First Class,Corporate,West,Technology,Machines,Machines Product 43,1201.83,823.81
+CA-2023-122958,09/06/2023,Second Class,Corporate,East,Office Supplies,Binders,Binders Product 42,99.56,80.06
+CA-2023-132873,02/16/2023,Second Class,Consumer,West,Office Supplies,Art,Art Product 71,51.68,39.09
+CA-2023-195872,05/01/2023,Standard Class,Consumer,East,Office Supplies,Paper,Paper Product 40,59.75,43.61
+CA-2023-160107,08/02/2023,Second Class,Home Office,East,Office Supplies,Paper,Paper Product 6,36.29,27.05
+CA-2023-199087,08/27/2023,Standard Class,Home Office,East,Furniture,Tables,Tables Product 83,260.72,232.73
+CA-2023-176349,02/25/2023,Same Day,Consumer,West,Office Supplies,Labels,Labels Product 66,75.06,61.63
+CA-2023-143209,12/16/2023,Same Day,Consumer,West,Technology,Copiers,Copiers Product 89,206.73,158.62
+CA-2023-118976,04/17/2023,Second Class,Home Office,Central,Furniture,Chairs,Chairs Product 35,272.2,228.59
+CA-2023-184360,02/17/2023,Same Day,Home Office,South,Technology,Phones,Phones Product 57,1771.7,1132.32
+CA-2023-105190,07/26/2024,Same Day,Home Office,South,Office Supplies,Binders,Binders Product 91,73.13,58.0
+CA-2023-172572,12/03/2023,Standard Class,Consumer,East,Technology,Machines,Machines Product 70,2982.56,2071.85
+CA-2023-186029,01/26/2023,Same Day,Consumer,South,Furniture,Tables,Tables Product 26,764.44,644.63
+CA-2023-145771,09/14/2023,Same Day,Home Office,East,Office Supplies,Labels,Labels Product 42,116.33,87.65
+CA-2023-118385,01/08/2023,Standard Class,Home Office,West,Furniture,Bookcases,Bookcases Product 15,838.06,791.96
+CA-2023-194753,09/16/2024,Same Day,Corporate,South,Office Supplies,Labels,Labels Product 98,58.3,43.0
+CA-2023-179360,09/10/2023,Standard Class,Home Office,East,Office Supplies,Binders,Binders Product 95,43.3,33.83
+CA-2023-102956,11/22/2024,Second Class,Home Office,West,Technology,Phones,Phones Product 96,518.91,355.89
+CA-2023-178345,12/19/2024,Same Day,Consumer,West,Office Supplies,Art,Art Product 50,163.43,119.85
+CA-2023-145615,10/30/2023,Standard Class,Corporate,East,Office Supplies,Fasteners,Fasteners Product 4,13.57,10.18
+CA-2023-172918,09/30/2024,Same Day,Corporate,South,Office Supplies,Binders,Binders Product 74,116.28,86.65
+CA-2023-191679,02/25/2023,Second Class,Consumer,West,Technology,Accessories,Accessories Product 48,563.76,427.74
+CA-2023-146404,12/26/2024,Second Class,Home Office,West,Technology,Machines,Machines Product 11,1928.8,1224.2
+CA-2023-196433,06/09/2024,Second Class,Corporate,East,Furniture,Furnishings,Furnishings Product 73,557.06,489.2
+CA-2023-132069,04/18/2024,Second Class,Corporate,West,Office Supplies,Binders,Binders Product 17,44.82,34.44
+CA-2023-120431,01/28/2023,Second Class,Consumer,South,Office Supplies,Art,Art Product 71,8.66,6.84
+CA-2023-123977,03/19/2023,Standard Class,Home Office,Central,Furniture,Tables,Tables Product 89,825.95,704.62
+CA-2023-174408,08/04/2023,Standard Class,Home Office,West,Furniture,Furnishings,Furnishings Product 54,178.93,164.22
+CA-2023-119551,01/21/2024,Second Class,Corporate,East,Office Supplies,Art,Art Product 65,57.34,46.29
+CA-2023-167853,12/31/2023,Second Class,Consumer,Central,Office Supplies,Envelopes,Envelopes Product 35,102.53,73.83
+CA-2023-196494,10/27/2024,Second Class,Corporate,West,Office Supplies,Labels,Labels Product 31,69.32,53.51
+CA-2023-193464,06/09/2024,First Class,Consumer,East,Technology,Accessories,Accessories Product 92,1782.9,1222.16
+CA-2023-195696,11/29/2024,Same Day,Consumer,Central,Office Supplies,Art,Art Product 9,54.36,44.91
+CA-2023-109491,11/08/2023,First Class,Consumer,East,Office Supplies,Labels,Labels Product 75,21.12,17.43
+CA-2023-187086,01/07/2023,Second Class,Home Office,East,Office Supplies,Envelopes,Envelopes Product 84,121.1,91.53
+CA-2023-162539,01/03/2023,Standard Class,Consumer,Central,Technology,Machines,Machines Product 26,220.78,155.38
+CA-2023-196343,09/14/2024,First Class,Consumer,West,Office Supplies,Labels,Labels Product 58,66.03,53.6
+CA-2023-173273,12/29/2023,Standard Class,Consumer,West,Office Supplies,Binders,Binders Product 84,99.01,78.46
+CA-2023-110892,05/22/2024,Second Class,Home Office,South,Furniture,Chairs,Chairs Product 16,666.34,622.47
+CA-2023-105387,10/01/2023,Same Day,Corporate,West,Office Supplies,Art,Art Product 49,57.0,47.44
+CA-2023-118205,05/20/2024,First Class,Home Office,South,Office Supplies,Art,Art Product 92,67.42,53.35
+CA-2023-187502,01/15/2023,First Class,Home Office,East,Furniture,Tables,Tables Product 46,856.23,727.12
+CA-2023-150762,07/11/2023,Standard Class,Home Office,West,Office Supplies,Fasteners,Fasteners Product 52,57.96,44.27
+CA-2023-198336,09/22/2024,Same Day,Consumer,Central,Office Supplies,Paper,Paper Product 98,89.65,68.87
+CA-2023-198575,04/29/2024,Second Class,Consumer,South,Office Supplies,Labels,Labels Product 15,59.27,45.8
+CA-2023-147598,01/28/2023,Standard Class,Corporate,South,Office Supplies,Art,Art Product 49,17.9,12.92
+CA-2023-134416,12/14/2024,Standard Class,Home Office,Central,Technology,Phones,Phones Product 93,313.89,231.48
+CA-2023-130628,02/08/2023,First Class,Consumer,Central,Office Supplies,Labels,Labels Product 39,19.52,14.62
+CA-2023-162363,09/30/2023,First Class,Home Office,South,Office Supplies,Art,Art Product 81,108.89,87.24
+CA-2023-166188,08/19/2023,Same Day,Home Office,West,Office Supplies,Paper,Paper Product 43,47.22,34.42
+CA-2023-193823,03/27/2023,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 75,50.98,41.43
+CA-2023-179422,04/18/2024,Same Day,Consumer,Central,Technology,Accessories,Accessories Product 25,2013.14,1495.53
+CA-2023-109304,05/06/2023,First Class,Consumer,Central,Office Supplies,Paper,Paper Product 81,26.77,19.31
+CA-2023-107446,06/20/2024,Standard Class,Corporate,West,Office Supplies,Labels,Labels Product 16,76.35,55.09
+CA-2023-115704,05/25/2023,Same Day,Home Office,West,Technology,Accessories,Accessories Product 44,1248.2,878.28
+CA-2023-128743,06/08/2024,Second Class,Corporate,East,Office Supplies,Labels,Labels Product 99,23.03,17.45
+CA-2023-165908,07/31/2023,Second Class,Consumer,East,Office Supplies,Envelopes,Envelopes Product 63,9.55,6.85
+CA-2023-101695,01/25/2023,Same Day,Home Office,West,Office Supplies,Paper,Paper Product 66,71.21,59.25
+CA-2023-109230,08/02/2024,Second Class,Consumer,South,Office Supplies,Labels,Labels Product 73,88.86,67.13
+CA-2023-163294,01/29/2024,Standard Class,Corporate,Central,Technology,Copiers,Copiers Product 47,962.71,733.24
+CA-2023-117357,03/08/2023,Same Day,Home Office,West,Office Supplies,Paper,Paper Product 20,122.56,96.94
+CA-2023-186268,08/21/2023,First Class,Corporate,East,Office Supplies,Binders,Binders Product 67,88.9,68.09
+CA-2023-197091,04/19/2023,First Class,Consumer,East,Office Supplies,Labels,Labels Product 92,74.78,54.13
+CA-2023-130615,05/26/2023,First Class,Corporate,East,Furniture,Chairs,Chairs Product 33,160.32,141.86
+CA-2023-168049,04/21/2023,First Class,Corporate,West,Furniture,Chairs,Chairs Product 70,440.05,409.03
+CA-2023-134568,08/16/2023,First Class,Home Office,Central,Office Supplies,Fasteners,Fasteners Product 58,103.22,75.16
+CA-2023-169409,04/21/2023,Same Day,Consumer,Central,Technology,Phones,Phones Product 96,1118.81,760.33
+CA-2023-187122,04/14/2024,Standard Class,Home Office,East,Office Supplies,Labels,Labels Product 98,15.55,12.33
+CA-2023-106533,02/03/2023,Same Day,Consumer,West,Office Supplies,Fasteners,Fasteners Product 98,67.37,53.31
+CA-2023-105192,09/14/2024,Same Day,Home Office,West,Furniture,Tables,Tables Product 59,602.76,521.91
+CA-2023-143306,01/04/2024,Same Day,Home Office,West,Office Supplies,Envelopes,Envelopes Product 91,43.11,31.21
+CA-2023-161521,08/17/2024,Same Day,Corporate,West,Office Supplies,Binders,Binders Product 68,128.23,96.38
+CA-2023-111672,07/07/2024,First Class,Home Office,West,Office Supplies,Labels,Labels Product 89,45.28,34.91
+CA-2023-140081,02/29/2024,Second Class,Consumer,East,Office Supplies,Binders,Binders Product 3,112.33,91.88
+CA-2023-157893,09/04/2024,Second Class,Home Office,West,Office Supplies,Paper,Paper Product 90,34.05,26.33
+CA-2023-170429,06/01/2024,Standard Class,Home Office,West,Technology,Accessories,Accessories Product 83,407.14,257.65
+CA-2023-182215,11/22/2024,Second Class,Corporate,Central,Office Supplies,Binders,Binders Product 27,195.97,141.96
+CA-2023-185038,10/09/2023,Standard Class,Home Office,East,Office Supplies,Paper,Paper Product 11,17.57,14.61
+CA-2023-147176,11/16/2023,Second Class,Consumer,South,Office Supplies,Binders,Binders Product 18,188.31,135.05
+CA-2023-119642,03/18/2024,First Class,Consumer,West,Office Supplies,Paper,Paper Product 55,56.87,47.03
+CA-2023-115167,11/11/2023,Same Day,Home Office,West,Furniture,Chairs,Chairs Product 24,660.71,563.3
+CA-2023-104302,01/12/2024,Second Class,Consumer,Central,Office Supplies,Fasteners,Fasteners Product 29,13.38,10.32
+CA-2023-162537,10/16/2023,First Class,Corporate,East,Office Supplies,Art,Art Product 56,41.7,30.2
+CA-2023-118890,03/12/2024,Second Class,Consumer,Central,Furniture,Furnishings,Furnishings Product 77,868.57,743.73
+CA-2023-171667,10/23/2024,Second Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 58,15.2,12.57
+CA-2023-166249,10/04/2023,Second Class,Consumer,West,Technology,Accessories,Accessories Product 60,401.1,306.43
+CA-2023-178233,12/10/2024,Standard Class,Home Office,South,Office Supplies,Paper,Paper Product 41,123.33,93.86
+CA-2023-169687,08/04/2024,Standard Class,Consumer,South,Office Supplies,Paper,Paper Product 6,129.45,93.13
+CA-2023-144674,05/17/2024,Standard Class,Home Office,West,Furniture,Chairs,Chairs Product 29,605.59,532.08
+CA-2023-170051,09/15/2024,Standard Class,Consumer,Central,Technology,Phones,Phones Product 60,401.08,280.65
+CA-2023-182896,05/30/2024,Second Class,Consumer,South,Technology,Machines,Machines Product 15,1587.63,1099.46
+CA-2023-100636,12/16/2023,Same Day,Corporate,West,Office Supplies,Art,Art Product 98,71.79,59.17
+CA-2023-195707,03/21/2024,Standard Class,Home Office,East,Office Supplies,Paper,Paper Product 27,37.06,28.37
+CA-2023-123341,12/16/2023,First Class,Consumer,East,Office Supplies,Labels,Labels Product 99,139.49,112.69
+CA-2023-189859,08/29/2024,First Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 75,134.74,99.31
+CA-2023-112780,10/25/2024,First Class,Corporate,East,Technology,Copiers,Copiers Product 22,1772.44,1261.57
+CA-2023-178467,05/17/2023,Same Day,Consumer,East,Office Supplies,Art,Art Product 19,76.94,57.88
+CA-2023-130782,08/31/2023,Same Day,Consumer,Central,Technology,Phones,Phones Product 43,1668.13,1103.41
+CA-2023-195880,06/26/2024,Standard Class,Home Office,East,Technology,Phones,Phones Product 16,1513.65,1124.35
+CA-2023-174921,02/09/2023,Standard Class,Consumer,East,Office Supplies,Binders,Binders Product 88,79.49,65.16
+CA-2023-135794,08/17/2023,Standard Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 82,38.56,28.84
+CA-2023-153024,07/01/2024,Second Class,Home Office,East,Technology,Accessories,Accessories Product 7,1484.85,1062.41
+CA-2023-181371,08/11/2023,Standard Class,Home Office,Central,Office Supplies,Labels,Labels Product 81,29.52,22.4
+CA-2023-131568,01/06/2023,First Class,Home Office,West,Technology,Accessories,Accessories Product 69,1481.48,1065.49
+CA-2023-156888,11/18/2023,Standard Class,Home Office,West,Office Supplies,Art,Art Product 55,143.48,102.92
+CA-2023-142321,04/12/2024,First Class,Home Office,East,Office Supplies,Paper,Paper Product 44,108.16,83.39
+CA-2023-114260,03/16/2023,Same Day,Home Office,West,Furniture,Furnishings,Furnishings Product 79,227.44,197.18
+CA-2023-182966,01/04/2023,Second Class,Consumer,West,Furniture,Bookcases,Bookcases Product 58,108.06,91.33
+CA-2023-106610,10/07/2024,Standard Class,Consumer,East,Office Supplies,Envelopes,Envelopes Product 61,110.95,85.08
+CA-2023-150906,04/28/2023,Standard Class,Corporate,Central,Technology,Accessories,Accessories Product 87,275.02,205.2
+CA-2023-112500,08/28/2024,Second Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 38,81.75,66.83
+CA-2023-152672,05/18/2024,Same Day,Consumer,West,Office Supplies,Paper,Paper Product 46,17.52,13.93
+CA-2023-179915,07/27/2024,Same Day,Consumer,West,Office Supplies,Fasteners,Fasteners Product 12,76.16,63.04
+CA-2023-139236,03/16/2024,Second Class,Home Office,South,Office Supplies,Fasteners,Fasteners Product 89,89.75,71.33
+CA-2023-138985,07/13/2023,Standard Class,Home Office,East,Office Supplies,Paper,Paper Product 59,69.65,52.23
+CA-2023-195852,12/15/2024,Same Day,Consumer,Central,Office Supplies,Binders,Binders Product 97,134.85,110.88
+CA-2023-149047,01/27/2024,First Class,Corporate,Central,Technology,Copiers,Copiers Product 23,1448.15,938.99
+CA-2023-180992,01/26/2023,Standard Class,Consumer,East,Office Supplies,Binders,Binders Product 72,33.29,25.21
+CA-2023-195428,03/10/2024,Second Class,Corporate,East,Office Supplies,Envelopes,Envelopes Product 1,103.05,84.12
+CA-2023-188263,06/22/2023,Same Day,Consumer,West,Office Supplies,Fasteners,Fasteners Product 90,116.73,88.95
+CA-2023-137696,10/27/2023,Second Class,Consumer,East,Office Supplies,Fasteners,Fasteners Product 90,48.57,37.08
+CA-2023-150044,10/06/2024,First Class,Corporate,West,Office Supplies,Art,Art Product 24,133.24,96.12
+CA-2023-138546,11/22/2023,Standard Class,Home Office,East,Technology,Accessories,Accessories Product 33,920.94,694.84
+CA-2023-191207,02/14/2024,Second Class,Consumer,West,Technology,Copiers,Copiers Product 89,205.55,151.28
+CA-2023-188553,04/28/2023,Standard Class,Corporate,West,Technology,Machines,Machines Product 89,1480.65,927.28
+CA-2023-187889,12/24/2024,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 97,114.21,93.53
+CA-2023-171127,08/13/2023,Second Class,Home Office,West,Office Supplies,Envelopes,Envelopes Product 71,75.21,55.22
+CA-2023-148671,06/15/2024,Standard Class,Corporate,Central,Office Supplies,Labels,Labels Product 98,124.47,89.94
+CA-2023-120047,04/23/2023,Same Day,Corporate,East,Office Supplies,Envelopes,Envelopes Product 92,86.01,64.12
+CA-2023-138165,05/20/2023,Standard Class,Consumer,East,Office Supplies,Art,Art Product 17,96.1,72.02
+CA-2023-150298,07/12/2024,Standard Class,Consumer,West,Office Supplies,Labels,Labels Product 41,60.12,44.66
+CA-2023-141792,01/01/2023,First Class,Corporate,East,Technology,Machines,Machines Product 3,2063.45,1290.24
+CA-2023-168945,03/31/2023,Second Class,Consumer,West,Office Supplies,Binders,Binders Product 18,42.28,31.7
+CA-2023-193608,10/15/2024,First Class,Corporate,West,Technology,Machines,Machines Product 63,540.04,363.07
+CA-2023-156115,11/16/2023,Standard Class,Consumer,South,Technology,Copiers,Copiers Product 91,1351.73,984.09
+CA-2023-129048,07/03/2024,Second Class,Corporate,West,Office Supplies,Labels,Labels Product 9,18.53,13.77
+CA-2023-150192,05/19/2023,Same Day,Corporate,South,Office Supplies,Binders,Binders Product 69,20.66,15.7
+CA-2023-183509,05/25/2024,Second Class,Consumer,South,Office Supplies,Fasteners,Fasteners Product 41,18.3,14.93
+CA-2023-161142,09/16/2023,Second Class,Consumer,West,Office Supplies,Labels,Labels Product 2,27.62,20.65
+CA-2023-101868,11/03/2024,Same Day,Home Office,Central,Office Supplies,Binders,Binders Product 12,34.63,28.51
+CA-2023-198557,11/20/2024,First Class,Home Office,West,Office Supplies,Labels,Labels Product 69,135.79,110.28
+CA-2023-144239,01/10/2023,Standard Class,Corporate,Central,Office Supplies,Fasteners,Fasteners Product 37,48.92,38.96
+CA-2023-103271,09/18/2023,First Class,Corporate,West,Office Supplies,Labels,Labels Product 26,27.3,21.59
+CA-2023-105607,10/11/2024,First Class,Home Office,West,Technology,Phones,Phones Product 35,1917.75,1450.57
+CA-2023-107498,06/21/2023,First Class,Consumer,West,Office Supplies,Art,Art Product 40,18.81,13.9
+CA-2023-186158,01/13/2023,Standard Class,Consumer,West,Technology,Accessories,Accessories Product 90,1521.93,1133.69
+CA-2023-130285,06/17/2023,First Class,Home Office,West,Technology,Phones,Phones Product 68,780.57,488.16
+CA-2023-164094,10/03/2024,First Class,Consumer,East,Office Supplies,Art,Art Product 78,77.96,57.65
+CA-2023-177078,08/18/2024,First Class,Corporate,South,Office Supplies,Fasteners,Fasteners Product 61,57.68,47.49
+CA-2023-173631,11/17/2023,Second Class,Consumer,South,Technology,Accessories,Accessories Product 38,1360.67,1005.5
+CA-2023-133979,11/15/2023,Same Day,Corporate,East,Furniture,Bookcases,Bookcases Product 72,974.97,870.98
+CA-2023-119924,09/04/2024,Second Class,Home Office,Central,Office Supplies,Binders,Binders Product 72,17.67,13.32
+CA-2023-187939,08/24/2024,First Class,Consumer,East,Technology,Copiers,Copiers Product 8,1712.83,1274.81
+CA-2023-158466,05/25/2024,Second Class,Corporate,South,Technology,Accessories,Accessories Product 48,2092.31,1433.17
+CA-2023-165864,06/01/2024,Same Day,Consumer,South,Office Supplies,Paper,Paper Product 94,93.77,72.92
+CA-2023-171206,07/09/2024,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 25,42.25,32.31
+CA-2023-199023,11/22/2024,Second Class,Consumer,West,Office Supplies,Envelopes,Envelopes Product 72,99.22,77.43
+CA-2023-179955,06/09/2024,First Class,Home Office,East,Technology,Copiers,Copiers Product 57,1100.41,724.86
+CA-2023-197554,05/12/2023,Second Class,Home Office,East,Office Supplies,Binders,Binders Product 80,83.82,64.92
+CA-2023-106089,08/29/2024,Standard Class,Corporate,West,Office Supplies,Labels,Labels Product 39,8.27,6.0
+CA-2023-172572,12/03/2023,Standard Class,Consumer,East,Technology,Machines,Machines Product 70,2982.56,2071.85
+CA-2023-176957,01/28/2024,Same Day,Corporate,South,Technology,Accessories,Accessories Product 6,1273.5,855.63
+CA-2023-150493,03/25/2024,Standard Class,Corporate,West,Furniture,Tables,Tables Product 89,275.18,246.71
+CA-2023-161788,07/09/2024,Same Day,Consumer,South,Office Supplies,Art,Art Product 3,115.28,85.25
+CA-2023-172778,02/08/2023,Second Class,Corporate,East,Office Supplies,Binders,Binders Product 33,70.0,51.37
+CA-2023-187889,12/24/2024,Second Class,Consumer,West,Office Supplies,Fasteners,Fasteners Product 97,114.21,93.53
+CA-2023-182896,05/30/2024,Second Class,Consumer,South,Technology,Machines,Machines Product 15,1587.63,1099.46
+CA-2023-179422,04/18/2024,Same Day,Consumer,Central,Technology,Accessories,Accessories Product 25,2013.14,1495.53
+CA-2023-131881,05/11/2023,First Class,Consumer,Central,Office Supplies,Binders,Binders Product 17,8.37,6.84
+CA-2023-162539,01/03/2023,Standard Class,Consumer,Central,Technology,Machines,Machines Product 26,220.78,155.38
+CA-2023-162665,05/02/2024,Same Day,Consumer,East,Office Supplies,Binders,Binders Product 16,44.87,36.73
+CA-2023-113050,01/22/2023,Standard Class,Consumer,East,Furniture,Chairs,Chairs Product 70,759.71,696.27
